@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.hykj"
+    android:versionCode="1"
+    android:versionName="1.1">
+          package="com.hykj"
+          android:versionCode="1"
+          android:versionName="1.1">
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="19"/>
+
+    <!-- 这个权限用于进行微信登录 -->
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.READ_LOGS"/>
+    <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS"/>
+    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS"/>
+    <uses-permission android:name="android.permission.GET_ACCOUNTS"/>
+    <uses-permission android:name="android.permission.RESTART_PACKAGES"/>
+    <!-- 蓝牙分享所需的权限 -->
+    <uses-permission android:name="android.permission.BLUETOOTH"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
+    <uses-permission android:name="android.permission.GET_TASKS"/>
+    <uses-permission android:name="android.permission.KILL_BACKGROUND_PROCESSES"/>
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+    <uses-permission android:name="android.permission.CALL_PHONE"/>
+    <uses-permission android:name="android.permission.FLASHLIGHT"/>
+    <uses-permission android:name="android.permission.READ_CONTACTS"/>
+
+    <application
+        android:name=".App"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/Theme.Light.NoTitleBar">
+        <meta-data
+            android:name="com.baidu.lbsapi.API_KEY"
+            android:value="3QPiGf3o0IBgvFsX4xdzLlNBYeFGHMFA"/>
+
+        <receiver
+            android:name=".broadcast.AlarmBroadcastReceiver"
+            android:process=":remote"></receiver>
+
+        <activity
+            android:name=".activity.usermanagement.StartActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:name=".activity.usermanagement.MainActivity"/>
+        <activity android:name=".activity.usermanagement.LoginActivity"/>
+        <activity android:name=".activity.usermanagement.RegActivity"/>
+        <activity android:name=".activity.usermanagement.FindPwdActivity"/>
+        <activity
+            android:name=".activity.subject.SubjectDetailActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.subject.NewSubjectActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.subject.NewSubjectPicActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".manager.MyLoactionManager"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.chat.ChatActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.subject.NewSubjectSoundActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.subject.NewSubjectFileActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".manager.RecordVideoManager"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.messure.AddInfoActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".manager.SubjectPhotoView"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.chat.LylListActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.messure.AddBloodPressureActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.messure.AddBloodSugarActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.messure.BloodPressureTableActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.messure.BloodSugarTableActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".activity.usermanagement.ModifyDataActivity"/>
+        <activity android:name=".activity.usermanagement.ModifyNameActivity"></activity>
+        <activity android:name=".activity.usermanagement.ModifyCityActivity"></activity>
+        <activity
+            android:name=".activity.usermanagement.WelcomeActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".activity.usermanagement.HospitalList"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.usermanagement.DoctorDetailActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".manager.ChatPhotoView"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".activity.usermanagement.QuestionnaireActivity"></activity>
+        <activity android:name=".activity.usermanagement.StoreActivity"></activity>
+        <activity android:name=".activity.usermanagement.CollectInfoActivity"></activity>
+        <activity android:name=".activity.usermanagement.PushInfoDetialActivity"></activity>
+        <activity android:name=".activity.usermanagement.BindUserActivity"></activity>
+        <activity
+            android:name=".activity.usermanagement.HealthRecordActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden"></activity>
+        <activity android:name=".activity.usermanagement.MsgCenterActivity"></activity>
+        <activity android:name=".activity.usermanagement.IntegrationActivity"></activity>
+        <activity android:name=".activity.usermanagement.SettingActivity"></activity>
+        <activity android:name=".view.SetSugarView"></activity>
+        <activity android:name=".activity.usermanagement.QuestionActivity"></activity>
+        <activity android:name=".activity.usermanagement.AboutActivity"></activity>
+        <activity android:name=".activity.usermanagement.MedicationremindersActivity"></activity>
+        <activity android:name=".activity.usermanagement.MedicationsetActivity"></activity>
+        <activity android:name=".activity.usermanagement.BindUsernameActivity"></activity>
+        <activity android:name=".activity.usermanagement.AlarmRemindActivity"></activity>
+        <activity android:name=".activity.messure.DietConditionActivity"></activity>
+        <activity android:name=".activity.usermanagement.MyDietActivity"></activity>
+        <activity android:name=".activity.messure.SportConditionActivity"></activity>
+        <activity android:name=".activity.usermanagement.MySportActivity"></activity>
+        <activity android:name=".activity.messure.UploadMedicalRecordActivity"></activity>
+        <activity android:name=".activity.usermanagement.MyMedicalrecordActivity"></activity>
+        <activity android:name=".activity.usermanagement.MedicalRecordDetailActivity"></activity>
+        <activity android:name=".activity.usermanagement.MyPrescriptionActivity"></activity>
+        <activity
+            android:name=".activity.messure.BloodSugarLineActivity"
+            android:screenOrientation="landscape"/>
+        <activity
+            android:name=".activity.messure.BloodPressureLineActivity"
+            android:screenOrientation="landscape"/>
+        <activity
+            android:name=".manager.GetPhotoManager"
+            android:screenOrientation="portrait"
+            android:theme="@style/DialogTransparent"/>
+        <activity
+            android:name=".activity.usermanagement.AcceptFriendActivity"
+            android:screenOrientation="portrait"/>
+
+        <service android:name=".service.DownloadService"/>
+        <service android:name=".service.ChatService"/>
+        <service
+            android:name=".service.RegisterCodeTimerService"
+            android:enabled="true"/>
+
+        <provider
+            android:name=".db.ChatProvider"
+            android:authorities="com.hykj.provider.Chats"/>
+
+        <provider
+            android:name=".db.RosterProvider"
+            android:authorities="com.hykj.provider.Roster"/>
+
+        <receiver android:name=".broadcast.ChatBroadCastReceiver">
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE"/>
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.baidu.location.f"
+            android:enabled="true"
+            android:process=":remote"></service>
+
+        <activity
+            android:name="com.mob.tools.MobUIShell"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:windowSoftInputMode="stateHidden|adjustResize">
+            <intent-filter>
+                <data android:scheme="tencent100371282"/>
+
+                <action android:name="android.intent.action.VIEW"/>
+
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".wxapi.WXEntryActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+        <activity
+            android:name="cn.sharesdk.sina.weibo.SinaActivity"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar">
+            <intent-filter>
+                <action android:name="com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY"/>
+
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:name=".activity.usermanagement.ScanQRActivity"></activity>
+        <activity android:name=".activity.usermanagement.BindDeviceActivity"></activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/tv_main.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-mdpi/tv_main.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_reg_phone.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-mdpi/btn_reg_phone.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/tv_record.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-mdpi/tv_record.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_login.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-mdpi/btn_login.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/right.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-mdpi/right.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_reg.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-mdpi/btn_reg.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_reg_code.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-mdpi/btn_reg_code.xml"
+    }
+]

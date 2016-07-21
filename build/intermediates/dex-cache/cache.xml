@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/bob/HY/healthcloud/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/home/bob/HY/healthcloud/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_bd8302e335cd160376a3c7ae97e2d1ff9b324717/classes.dex" />
+    </item>
+    <item
+        jar="/home/bob/HY/healthcloud/app/libs/ShareSDK-QZone-2.6.4.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="606a553246f241278b45e19d5029c915ae49c316">
+        <dex dex="/home/bob/HY/healthcloud/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-QZone-2.6.4_2f7c8ee9c12eb1a9b4911bb4f655df1a9b4a8f0c/classes.dex" />
+    </item>
+    <item
+        jar="/home/bob/HY/healthcloud/app/libs/wk_sniffer.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="ef1a957d14460abb26a7984b234677f12594b86a">
+        <dex dex="/home/bob/HY/healthcloud/app/build/intermediates/transforms/dex/debug/folders/1000/2/wk_sniffer_e9768b2daf10167482eacbfe1f1d672fa78d04ee/classes.dex" />
+    </item>
+    <item
+        jar="/home/bob/HY/healthcloud/app/libs/ShareSDK-Facebook-2.6.4.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="2ba586e55d03ba7a738212c0be4963c1e0a8ab66">
+        <dex dex="/home/bob/HY/healthcloud/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Facebook-2.6.4_19222c5cab15279c32adff9804d1fa99e91b3c64/classes.dex" />
+    </item>
+    <item
+        jar="/home/bob/HY/healthcloud/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.10.0/jars/classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="65f0c887ee1f57cd0ea65b228e39b7f35372b798">
+        <dex dex="/home/bob/HY/healthcloud/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-drawee-0.10.0_8a8c46cfd6f4168a1c9eaabf4d75a94c90d8768f/classes.dex" />
+    </item>
+    <item
+        jar="/home/bob/HY/healthcloud/app/libs/ShareSDK-Twitter-2.6.4.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="a775a859ea2688efad670dba4a90770ea740c8b4">
+        <dex dex="/home/bob/HY/healthcloud/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Twitter-2.6.4_13643b82afe0b1a7c6b77a1f29dc01ba605212d1/classes.dex" />
+    </item>
+    <item
+        jar="/home/bob/HY/healthcloud/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/home/bob/HY/healthcloud/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_f3379ce9dafe492aab8972aa8161eb9a4f6cb2d3/classes.dex" />
+    </item>
+    <item
+        jar="/home/bob/HY/healthcloud/app/libs/ShareSDK-Wechat-Moments-2.6.4.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="dc2b46a70ccf00592d33c3afde812993d9db4ac9">
+        <dex dex="/home/bob/HY/healthcloud/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Wechat-Moments-2.6.4_28e949a091611e5121328ee44185b55735b57879/classes.dex" />
+    </item>
+    <item
+        jar="/home/bob/HY/healthcloud/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.10.0/jars/classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="d323cf4983bdfce7136a1ce5e32710e1b36b20fe">
+        <dex dex="/home/bob/HY/healthcloud/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-fbcore-0.10.0_18162496d2dabc9bae826e06f76b724922bf88fd/classes.dex" />
+    </item>
+    <item
+        jar="/home/bob/HY/healthcloud/app/libs/ShareSDK-QQ-2.6.4.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="e8d59be1960d4e1b1f9119cc77966e5f7c9fb7bd">
+        <dex dex="/home/bob/HY/healthcloud/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-QQ-2.6.4_30ff8ea5d0032cdeb4b00c856ac53a70609e312a/classes.dex" />
+    </item>
+    <item
+        jar="/home/bob/HY/healthcloud/app/libs/ShareSDK-Wechat-Core-2.6.4.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="a6e8417962070d895b3567c68f104f628462bc35">
+        <dex dex="/home/bob/HY/healthcloud/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Wechat-Core-2.6.4_e4aaad850ae461c11d1a778fa35236a93a862cba/classes.dex" />
+    </item>
+    <item
+        jar="/home/bob/HY/healthcloud/app/libs/ShareSDK-Email-2.6.4.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="81a92328963aea17992c71f3f95e60c355c570c3">
+        <dex dex="/home/bob/HY/healthcloud/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Email-2.6.4_0b2db03e4a8d7c0fc001bd34b4cbcc4b39bce81f/classes.dex" />
+    </item>
+    <item
+        jar="/home/bob/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/home/bob/HY/healthcloud/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-android-1.1.4_9a5cabbcdafd1e89320050c15d223f430c57128a/classes.dex" />
+    </item>
+    <item
+        jar="/home/bob/HY/healthcloud/app/libs/libammsdk.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="11b09244aedaa51bfd09269637be7c32c60da314">
+        <dex dex="/home/bob/HY/healthcloud/app/build/intermediates/transforms/dex/debug/folders/1000/2/libammsdk_4b1089390caefe825b9253383b268f7e0f51fd17/classes.dex" />
+    </item>
+    <item
+        jar="/home/bob/HY/healthcloud/app/libs/xUtils-2.6.14.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="/home/bob/HY/healthcloud/app/build/intermediates/transforms/dex/debug/folders/1000/2/xUtils-2.6.14_e584c7f33e4750ffb1c5dbf4aa5bada037f11724/classes.dex" />
+    </item>
+    <item
+        jar="/home/bob/HY/healthcloud/app/libs/Volley.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="77faa9ffd189160d1e22c58fdf5eed0a9a08b816">
+        <dex dex="/home/bob/HY/healthcloud/app/build/intermediates/transforms/dex/debug/folders/1000/2/Volley_2cb4138746d2cea01dc48aac575bea34ab40de65/classes.dex" />
+    </item>
+    <item
+        jar="/home/bob/HY/healthcloud/app/libs/httpmime-4.1.2.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="ed8b5ee0167cb27dea55851259eb34b609f31df0">
+        <dex dex="/home/bob/HY/healthcloud/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpmime-4.1.2_c26c8028424b21708087217e5b01949cfc6f995f/classes.dex" />
+    </item>
+    <item
+        jar="/home/bob/HY/healthcloud/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.10.0/jars/classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="5e88a2a26ac71cd7f8fd8bd9f9381fa06d1a47a3">
+        <dex dex="/home/bob/HY/healthcloud/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-imagepipeline-base-0.10.0_636626794699df771ee8fa1023275ae85796fbcf/classes.dex" />
+    </item>
+    <item
+        jar="/home/bob/HY/healthcloud/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="5f1fe559214cd3012860e29948f679d10a89da88">
+        <dex dex="/home/bob/HY/healthcloud/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b255e87b64e666f9cb6694f8ade35c9c7e40c321/classes.dex" />
+    </item>
+    <item
+        jar="/home/bob/HY/healthcloud/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="028bcb749a7405842a925657d1ebee8cb6a30a1e">
+        <dex dex="/home/bob/HY/healthcloud/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0fbe182b0cd1481af87cd78fe4687b24192daab5/classes.dex" />
+    </item>
+    <item
+        jar="/home/bob/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/home/bob/HY/healthcloud/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_898590860a8e3b9f52e4209b844a561ebba9b819/classes.dex" />
+    </item>
+    <item
+        jar="/home/bob/HY/healthcloud/app/libs/ShareSDK-Core-2.6.4.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="7bb32fc69b3520f10333fcc5cdd78a4495761a64">
+        <dex dex="/home/bob/HY/healthcloud/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Core-2.6.4_a00d29466a1d222a20ef62ae6aa05fe9aa33ab60/classes.dex" />
+    </item>
+    <item
+        jar="/home/bob/HY/healthcloud/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.10.0/jars/classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="857099e23430445aeb65cf703d5adf646ff280f1">
+        <dex dex="/home/bob/HY/healthcloud/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-fresco-0.10.0_a5cebad4a18c2ce71432f859a232f823049fde72/classes.dex" />
+    </item>
+    <item
+        jar="/home/bob/HY/healthcloud/app/libs/ShareSDK-TencentWeibo-2.6.4.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="83cf7f24b0717fbe9272342f0b971ed4af13d106">
+        <dex dex="/home/bob/HY/healthcloud/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-TencentWeibo-2.6.4_42d6c946d5ea0a86a356dbc3003da29c9ea455de/classes.dex" />
+    </item>
+    <item
+        jar="/home/bob/HY/healthcloud/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.10.0/jars/classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="6e1ed00013584399dbe27d45ac1fd6a9828c9fca">
+        <dex dex="/home/bob/HY/healthcloud/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-imagepipeline-0.10.0_04c3aeba9efa671da28b0754a9e954c9ccb6bda4/classes.dex" />
+    </item>
+    <item
+        jar="/home/bob/HY/healthcloud/app/libs/asmack-android-6.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="3d0153304081a3a9ddb15c93082e2664b94746e9">
+        <dex dex="/home/bob/HY/healthcloud/app/build/intermediates/transforms/dex/debug/folders/1000/2/asmack-android-6_1a1a6f834886ba6c53b3e2c0810fd88f5d42ecfc/classes.dex" />
+    </item>
+    <item
+        jar="/home/bob/HY/healthcloud/app/libs/MobTools.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="4aae467e0a293d5d5cd0643e51b7b854bcc397c8">
+        <dex dex="/home/bob/HY/healthcloud/app/build/intermediates/transforms/dex/debug/folders/1000/2/MobTools_6ce96df521ff3923c860c703db4f0d0496880470/classes.dex" />
+    </item>
+    <item
+        jar="/home/bob/HY/healthcloud/app/libs/MobCommons.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="86052ea3c2fcfa2f2d25d71ae34ab20b8c2dca9a">
+        <dex dex="/home/bob/HY/healthcloud/app/build/intermediates/transforms/dex/debug/folders/1000/2/MobCommons_889e897b143c838f23d03db6125a46ac046a36b2/classes.dex" />
+    </item>
+    <item
+        jar="/home/bob/HY/healthcloud/app/libs/BaiduLBS_Android.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="d41fe3a2e0dc3d24b8d520d8a992a4b1a53e7235">
+        <dex dex="/home/bob/HY/healthcloud/app/build/intermediates/transforms/dex/debug/folders/1000/2/BaiduLBS_Android_c9326d6f288eed937a79dba16a2fb561d04ebc39/classes.dex" />
+    </item>
+    <item
+        jar="/home/bob/HY/healthcloud/app/libs/ShareSDK-Wechat-Favorite-2.6.4.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="bd820f646c7b0315feb16ec95ae4686fa50ac74f">
+        <dex dex="/home/bob/HY/healthcloud/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Wechat-Favorite-2.6.4_959f098dbdcd640f0b24002013ab084afd20ac31/classes.dex" />
+    </item>
+    <item
+        jar="/home/bob/HY/healthcloud/app/libs/photoview.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="93c271258fb4ebb392f0859c6e288da2a20aa08b">
+        <dex dex="/home/bob/HY/healthcloud/app/build/intermediates/transforms/dex/debug/folders/1000/2/photoview_cd9f4a6607086a01b64291659f1f2f21bab6a8fd/classes.dex" />
+    </item>
+    <item
+        jar="/home/bob/HY/healthcloud/app/libs/ShareSDK-ShortMessage-2.6.4.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="600c29e53c1196bde47dd1ceffbc4ba827d41ee3">
+        <dex dex="/home/bob/HY/healthcloud/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-ShortMessage-2.6.4_f704b4f356973a753e6418b4be6d43b1a2710db2/classes.dex" />
+    </item>
+    <item
+        jar="/home/bob/HY/healthcloud/app/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="a43cf9e271b5bc564e880a0a4be63ab9c69c97f8">
+        <dex dex="/home/bob/HY/healthcloud/app/build/intermediates/transforms/dex/debug/folders/1000/2/nineoldandroids-2.4.0_d6b060122cdceabbf98ec4dbb740a5cf20c5a5c3/classes.dex" />
+    </item>
+    <item
+        jar="/home/bob/HY/healthcloud/app/libs/zxing.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/home/bob/HY/healthcloud/app/build/intermediates/transforms/dex/debug/folders/1000/2/zxing_804aa1b77b034b01efd6c69d6328cb3afcb72d78/classes.dex" />
+    </item>
+    <item
+        jar="/home/bob/HY/healthcloud/app/libs/ShareSDK-Wechat-2.6.4.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="100546a136041bcbeb9b90790b6361c932545676">
+        <dex dex="/home/bob/HY/healthcloud/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Wechat-2.6.4_c7bb58e7a0a2abb0ffec002612ccd19b47dd9492/classes.dex" />
+    </item>
+    <item
+        jar="/home/bob/HY/healthcloud/app/libs/ShareSDK-SinaWeibo-2.6.4.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="4536d9f7a5fb826609d5a17b30cabb21ead18d1c">
+        <dex dex="/home/bob/HY/healthcloud/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-SinaWeibo-2.6.4_1e2313f82a05c96889be991f3761dc5c458169e0/classes.dex" />
+    </item>
+
+</items>

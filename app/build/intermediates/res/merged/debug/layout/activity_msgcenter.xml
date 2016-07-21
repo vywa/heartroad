@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+   <LinearLayout
+        android:id="@+id/msg_ll_title"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+        android:background="#09b4c3"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/msg_tv_back"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:clickable="true"
+            android:gravity="center_vertical"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/selector_backarrowlight" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="20dp"
+            android:layout_weight="6"
+            android:gravity="center_vertical"
+            android:text="消息中心"
+            android:textColor="#ffffff"
+            android:textSize="20sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/msg_ll_read"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_below="@+id/msg_ll_title"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/msg_tv_unread"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="未读（2）"
+            android:textColor="#ff0000"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/msg_tv_read"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:clickable="true"
+            android:gravity="center"
+            android:textColor="#ff0000"
+            android:text="全部标为已读"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+    <android.support.v4.widget.SwipeRefreshLayout
+        android:id="@+id/msg_swiperflayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/msg_ll_read" >
+
+        <com.hykj.view.DeleteListView
+            android:id="@+id/msg_lv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+        </com.hykj.view.DeleteListView>
+    </android.support.v4.widget.SwipeRefreshLayout>
+
+</RelativeLayout>

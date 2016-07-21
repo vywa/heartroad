@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+    
+    <SurfaceView android:id="@+id/surfaceview"
+        android:layout_width="match_parent"
+        android:layout_height="550dp"/>
+    
+    <com.gc.materialdesign.views.ProgressBarDeterminate android:id="@+id/progressBar"
+        android:layout_gravity="bottom"
+        android:layout_width="match_parent"
+		style="@android:style/Widget.ProgressBar.Horizontal"
+        android:layout_height="5dp"/>
+
+</FrameLayout>

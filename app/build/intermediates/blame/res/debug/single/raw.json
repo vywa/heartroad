@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/raw/em_outgoing.ogg",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/raw/em_outgoing.ogg"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/raw/emoji.txt",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/raw/emoji.txt"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/raw/beep.ogg",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/raw/beep.ogg"
+    }
+]

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--设置注册界面上获取验证码按钮-->
+    <item>
+        <shape>
+            <stroke
+                android:width="2px"
+                android:color="#ccc" /><!--边框颜色-->
+            <!-- <solid android:color="#ffffffff" />填充色 -->
+            <corners android:radius="5dp" /><!--圆角弧度-->
+        </shape>
+    </item>
+
+</layer-list>
+

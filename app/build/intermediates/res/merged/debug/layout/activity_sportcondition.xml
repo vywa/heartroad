@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/ll_back"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#009aa9" >
+
+        <ImageView
+            android:id="@+id/sportcondition_imgv_back"
+            android:layout_width="25dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="15dp"
+            android:clickable="true"
+            android:gravity="center_vertical"
+            android:scaleType="fitCenter"
+            android:src="@drawable/back" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="运动情况"
+            android:textColor="#ffffff"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/sportcondition_btn_save"
+            android:layout_width="65dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/selector_bg_subjectpublish"
+            android:gravity="center"
+            android:text="保存"
+            android:textColor="@android:color/white"
+            android:textSize="14sp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="#fff" >
+
+        <TextView
+            android:id="@+id/sportcondition_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="30dp"
+            android:gravity="center"
+            android:text="运动类型"
+            android:textColor="#009aa9"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/sportcondition_btn_slight"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="30dp"
+            android:layout_toRightOf="@+id/sportcondition_tv"
+            android:background="@drawable/round_selecte"
+            android:clickable="true"
+            android:gravity="center"
+            android:text="轻微"
+            android:textColor="#ffffff"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/sportcondition_btn_medium"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="30dp"
+            android:layout_toRightOf="@+id/sportcondition_btn_slight"
+            android:background="@drawable/round_normal"
+            android:clickable="true"
+            android:gravity="center"
+            android:text="中等"
+            android:textColor="#cccccc"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/sportcondition_btn_severe"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="30dp"
+            android:layout_toRightOf="@+id/sportcondition_btn_medium"
+            android:background="@drawable/round_normal"
+            android:clickable="true"
+            android:gravity="center"
+            android:text="剧烈"
+            android:textColor="#cccccc"
+            android:textSize="20sp" />
+    </RelativeLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:background="@drawable/diet_bg"
+        android:gravity="center_vertical"
+        android:paddingLeft="30dp"
+        android:text="设置时间"
+        android:textColor="#cccccc"
+        android:textSize="20sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="时间"
+            android:textColor="#616060"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/sportcondition_tv_time"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="end"
+            android:layout_weight="2"
+            android:drawableRight="@drawable/jiantou2x"
+            android:gravity="center_vertical"
+            android:paddingRight="30dp"
+            android:textColor="#616060"
+            android:textSize="18sp" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="43dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_below="@+id/sportcondition_view"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="运动时长"
+            android:textColor="#616060"
+            android:textSize="20sp" />
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1" >
+
+            <EditText
+                android:id="@+id/sportcondition_edt_long"
+                android:layout_width="50dp"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_alignParentRight="true"
+                android:gravity="center"
+                android:background="@null"
+                android:textColor="#de4559"
+                android:inputType="number"
+                android:textSize="15sp" />
+            <View
+                android:layout_width="50dp"
+                android:layout_height="1dp"
+                android:layout_alignParentRight="true"
+                android:background="#616060"
+                android:layout_alignParentBottom="true"
+                android:layout_marginBottom="10dp"/>
+        </RelativeLayout>
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:text="分钟"
+            android:textSize="18sp"
+            android:textColor="#616060"
+            android:gravity="left|center_vertical"/>
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/diet_bg" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center_vertical"
+            android:scaleType="fitXY"
+            android:layout_marginLeft="100dp"
+            android:src="@drawable/sport_ds" />
+
+        <TextView
+            android:layout_width="120dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/tv_dietcondition_border"
+            android:gravity="center"
+            android:text="运动说明"
+            android:textColor="#616060"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+
+    <EditText
+        android:id="@+id/sportcondition_edit_about"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="#dddcdc"
+        android:hint="例：打羽毛球，游泳"
+        android:paddingBottom="10dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingTop="3dp"
+        android:textColor="#009aa9"
+        android:textSize="15sp" />
+
+</LinearLayout>

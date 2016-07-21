@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                xmlns:fresco="http://schemas.android.com/apk/res-auto"
+                android:background="#eeeeee">
+
+     <include
+         android:id="@+id/title"
+        layout="@layout/lyl_title" />
+     
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/title"
+        android:layout_marginTop="7dp"
+        android:paddingBottom="10dp"
+        android:background="@android:color/white" >
+
+        <com.facebook.drawee.view.SimpleDraweeView
+            android:id="@+id/niv_docdetail_photo"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            fresco:roundAsCircle="true"
+            fresco:roundWithOverlayColor="@android:color/white"
+            fresco:roundingBorderWidth="0dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="15dp" />
+
+        <TextView
+            android:id="@+id/tv_doctordetail_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="14dp"
+            android:layout_marginTop="30dp"
+            android:layout_toRightOf="@id/niv_docdetail_photo"
+            android:textSize="19sp" />
+
+        <TextView
+            android:id="@+id/tv_doctordetail_sex"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:textColor="#888888"
+			android:layout_alignBaseline="@id/tv_doctordetail_name"
+            android:layout_toRightOf="@id/tv_doctordetail_name"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/tv_doctordetail_age"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+             android:textColor="#888888"
+			android:layout_alignBaseline="@id/tv_doctordetail_name"
+            android:layout_toRightOf="@id/tv_doctordetail_sex"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/tv_doctordetail_hospital"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/niv_docdetail_photo"
+            android:layout_marginLeft="100dp"
+             android:textColor="#888888"
+            android:layout_marginTop="10dp"
+            android:textSize="15sp" />
+
+        <View
+            android:id="@+id/view_doctordetail"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_below="@id/tv_doctordetail_hospital"
+            android:layout_marginTop="20dp"
+            android:background="#cccccc" />
+
+        <TextView
+            android:id="@+id/tv_doctordetail_profile"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/view_doctordetail"
+             android:textColor="#888888"
+			android:layout_marginLeft="30dp"
+			android:layout_marginRight="30dp"
+			android:layout_marginTop="20dp"
+			android:layout_marginBottom="20dp"
+            android:textSize="16sp" />
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/bt_doctordetail_add"
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+		android:gravity="center"
+		android:layout_alignParentBottom="true"
+		android:layout_centerHorizontal="true"
+		android:layout_marginBottom="90dp"
+        android:background="@drawable/selector_bg_redbutton"
+        android:text="添加我的医生"
+        android:textColor="#f3ecff" />
+
+</RelativeLayout>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_marginTop="30dp"
+        android:id="@+id/bt_binddev_1"
+        android:text="用户1"/>
+
+    <Button
+        android:layout_below="@+id/bt_binddev_1"
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:id="@+id/bt_binddev_2"
+        android:text="用户2"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:text="解绑"
+        android:layout_below="@+id/bt_binddev_2"
+        android:layout_marginTop="30dp"
+        android:id="@+id/bt_unbind"/>
+
+    <EditText
+        android:layout_below="@+id/bt_unbind"
+        android:layout_marginTop="30dp"
+        android:id="@+id/et_wifipwd"
+        android:text="hykj@xygjB2803"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:id="@+id/bt_connect"
+        android:layout_marginTop="30dp"
+        android:layout_below="@+id/et_wifipwd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="链接wifi"/>
+
+
+
+</RelativeLayout>

@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#eef0f0"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/ll_back"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#009aa9">
+
+        <ImageView
+            android:id="@+id/bind_tv_back"
+            android:layout_width="25dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="15dp"
+            android:clickable="true"
+            android:gravity="center_vertical"
+            android:scaleType="fitCenter"
+            android:src="@drawable/back" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="绑定帐号"
+            android:textColor="#ffffff"
+            android:textSize="20sp" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+
+        android:layout_marginTop="8dp"
+        android:background="@drawable/bind_tv_bg">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="5dp"
+            android:layout_weight="1"
+            android:drawableLeft="@drawable/username"
+            android:gravity="center"
+            android:paddingLeft="10dp"
+            android:text="  用户名"
+            android:textColor="#616060"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/bind_tv_username"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10dp"
+            android:layout_weight="2"
+            android:clickable="true"
+            android:drawableRight="@drawable/jiantou2x"
+            android:gravity="center"
+            android:paddingRight="10dp"
+            android:text="完善用户名"
+            android:textColor="#616060"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+
+        android:layout_marginTop="8dp"
+        android:background="@drawable/bind_tv_bg">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="5dp"
+            android:layout_weight="1"
+            android:drawableLeft="@drawable/phone"
+            android:gravity="center"
+            android:paddingLeft="12dp"
+            android:text=" 手机"
+            android:textColor="#616060"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/bind_tv_phone"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10dp"
+            android:layout_weight="2"
+            android:clickable="true"
+            android:drawableRight="@drawable/jiantou2x"
+            android:gravity="center"
+            android:paddingRight="10dp"
+            android:text="绑定手机号"
+            android:textColor="#616060"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/bind_tv_bg">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="5dp"
+            android:layout_weight="1"
+            android:drawableLeft="@drawable/email"
+            android:gravity="center"
+            android:paddingLeft="10dp"
+            android:text="  邮箱"
+            android:textColor="#616060"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/bind_tv_email"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10dp"
+            android:layout_weight="2"
+            android:clickable="true"
+            android:drawableRight="@drawable/jiantou2x"
+            android:gravity="center"
+            android:paddingRight="10dp"
+            android:text="绑定邮箱"
+            android:textColor="#616060"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/bind_tv_bg">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="5dp"
+            android:layout_weight="1"
+            android:drawableLeft="@drawable/bindqq"
+            android:gravity="center"
+            android:paddingLeft="10dp"
+            android:text="  QQ"
+            android:textColor="#616060"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/bind_tv_qq"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10dp"
+            android:layout_weight="2"
+            android:clickable="true"
+            android:drawableRight="@drawable/jiantou2x"
+            android:gravity="center"
+            android:paddingRight="10dp"
+            android:text="绑定QQ号"
+            android:textColor="#616060"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/bind_tv_bg">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="5dp"
+            android:layout_weight="1"
+            android:drawableLeft="@drawable/bindwx"
+            android:gravity="center"
+            android:paddingLeft="10dp"
+            android:text="  微信"
+            android:textColor="#616060"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/bind_tv_wx"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10dp"
+            android:layout_weight="2"
+            android:clickable="true"
+            android:drawableRight="@drawable/jiantou2x"
+            android:gravity="center"
+            android:paddingRight="10dp"
+            android:text="绑定微信"
+            android:textColor="#616060"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/bind_tv_bg">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="5dp"
+            android:layout_weight="1"
+            android:drawableLeft="@drawable/bindwb"
+            android:gravity="center"
+            android:paddingLeft="10dp"
+            android:text="  微博"
+            android:textColor="#616060"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/bind_tv_wb"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10dp"
+            android:layout_weight="2"
+            android:clickable="true"
+            android:drawableRight="@drawable/jiantou2x"
+            android:gravity="center"
+            android:paddingRight="10dp"
+            android:text="绑定微博"
+            android:textColor="#616060"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/bind_btn_bind"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/btn_bg"
+        android:gravity="center"
+        android:text="完成绑定"
+        android:textColor="#ffffff"
+        android:textSize="18sp" />
+
+</LinearLayout>

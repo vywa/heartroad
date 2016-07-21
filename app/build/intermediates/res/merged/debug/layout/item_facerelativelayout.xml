@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/FaceRelativeLayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:id="@+id/rl_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="5dp">
+
+
+        <TextView
+            android:id="@+id/btn_send"
+            android:layout_width="55dp"
+            android:layout_height="40dp"
+            android:layout_marginRight="8dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:textSize="15sp"
+            android:text="发送"
+            android:gravity="center"/>
+
+        <EditText
+            android:id="@+id/et_sendmessage"
+            android:padding="2dp"
+            android:layout_toLeftOf="@+id/btn_face"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:minHeight="40dp"
+            android:hint="我也说两句..."
+            android:textSize="15sp"
+            android:focusable="true"
+            android:layout_centerVertical="true"
+            android:focusableInTouchMode="true"/>
+        <ImageView
+            android:id="@+id/btn_face"
+            android:layout_marginRight="5dp"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_toLeftOf="@+id/btn_send"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="8dp"
+            android:src="@drawable/ic_launcher" />
+    </RelativeLayout>
+    <RelativeLayout
+        android:id="@+id/ll_facechoose"
+        android:layout_width="fill_parent"
+        android:layout_height="200dip"
+        android:layout_below="@id/rl_input" >
+		<GridView android:id="@+id/gv_newsubject_face_"
+		    android:numColumns="8"
+		    android:layout_width="match_parent"
+		    android:layout_height="match_parent">
+		</GridView>
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:background="@drawable/tv_record" >
+    <ImageView 
+        android:id="@+id/pull_image"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        android:src="@drawable/ic_launcher"/>
+    <LinearLayout 
+        android:layout_width="0dp"
+        android:layout_weight="3"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/pull_tv1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:height="0dp"
+            android:text="请问正常血糖值范围是多少？"
+            android:textSize="15sp" />
+
+          <TextView
+              android:id="@+id/pull_tv2"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:layout_weight="1"
+              android:gravity="right|center_vertical"
+              android:height="0dp"
+              android:text="2个回复"
+              android:textSize="10sp" />
+
+    </LinearLayout>
+
+   
+
+</LinearLayout>

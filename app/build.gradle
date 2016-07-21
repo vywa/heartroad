@@ -1,0 +1,53 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 19
+    buildToolsVersion "21.1.2"
+
+    defaultConfig {
+        applicationId "com.hykj"
+        minSdkVersion 14
+        targetSdkVersion 19
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile files('libs/asmack-android-6.jar')
+    compile files('libs/BaiduLBS_Android.jar')
+    compile files('libs/httpmime-4.1.2.jar')
+    compile files('libs/libammsdk.jar')
+    compile files('libs/MobCommons.jar')
+    compile files('libs/MobTools.jar')
+    compile files('libs/nineoldandroids-2.4.0.jar')
+    compile files('libs/photoview.jar')
+    compile files('libs/ShareSDK-Core-2.6.4.jar')
+    compile files('libs/ShareSDK-Email-2.6.4.jar')
+    compile files('libs/ShareSDK-Facebook-2.6.4.jar')
+    compile files('libs/ShareSDK-QQ-2.6.4.jar')
+    compile files('libs/ShareSDK-QZone-2.6.4.jar')
+    compile files('libs/ShareSDK-ShortMessage-2.6.4.jar')
+    compile files('libs/ShareSDK-SinaWeibo-2.6.4.jar')
+    compile files('libs/ShareSDK-TencentWeibo-2.6.4.jar')
+    compile files('libs/ShareSDK-Twitter-2.6.4.jar')
+    compile files('libs/ShareSDK-Wechat-2.6.4.jar')
+    compile files('libs/ShareSDK-Wechat-Core-2.6.4.jar')
+    compile files('libs/ShareSDK-Wechat-Favorite-2.6.4.jar')
+    compile files('libs/ShareSDK-Wechat-Moments-2.6.4.jar')
+    compile files('libs/Volley.jar')
+    compile files('libs/xUtils-2.6.14.jar')
+    compile files('libs/wk_sniffer.jar')
+    compile files('libs/zxing.jar')
+    compile ('com.android.support:support-v4:23.3.0') {
+        exclude module: 'support-annotations'
+    }
+    compile('com.facebook.fresco:fresco:0.10.0') {
+        exclude group: 'com.nineoldandroids'
+    }
+}

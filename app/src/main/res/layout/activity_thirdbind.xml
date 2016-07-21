@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <TextView
+        android:id="@+id/third_tv_back"
+        android:clickable="true"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/third_rl"
+        android:background="#55777777" />
+
+    <RelativeLayout
+        android:id="@+id/third_rl"
+        android:layout_width="match_parent"
+        android:layout_height="160dp"
+        android:layout_alignParentBottom="true"
+        android:background="#ffffff" >
+        <Button 
+            android:id="@+id/third_btn_qq"
+            android:layout_width="48dp" 
+            android:layout_height="48dp"
+            android:background="@drawable/qq"
+            android:layout_marginLeft="50dp"
+            android:layout_alignBaseline="@+id/third_btn_wx"/>
+        <Button 
+            android:id="@+id/third_btn_wx"
+            android:layout_width="48dp" 
+            android:layout_height="48dp"
+            android:background="@drawable/wx"
+            android:layout_centerInParent="true"/>
+        <Button 
+            android:id="@+id/third_btn_wb"
+            android:layout_width="48dp" 
+            android:layout_height="48dp"
+            android:background="@drawable/wb"
+            android:layout_marginRight="50dp"
+            android:layout_marginLeft="50dp"
+            android:layout_alignBaseline="@+id/third_btn_wx"
+            android:layout_toRightOf="@+id/third_btn_wx"/>
+    </RelativeLayout>
+
+</RelativeLayout>

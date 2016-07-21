@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                xmlns:fresco="http://schemas.android.com/apk/res-auto"
+                android:background="@color/bg_grey"
+                android:padding="5dp">
+
+    <TextView
+        android:id="@+id/tv_ichat_time"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="@android:color/black"
+        android:textSize="12sp" />
+
+    <LinearLayout
+        android:id="@+id/ll_ichat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv_ichat_time"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <com.facebook.drawee.view.SimpleDraweeView
+            android:layout_gravity="top"
+            android:id="@+id/niv_ichat_photo"
+            fresco:roundAsCircle="true"
+            fresco:roundWithOverlayColor="@color/bg_grey"
+            fresco:roundingBorderWidth="0dp"
+            android:layout_width="50dp"
+            android:layout_height="50dp" />
+
+        <TextView
+            android:id="@+id/tv_ichat_content"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="12dp"
+            android:layout_marginLeft="7dp"
+            android:maxWidth="260dp"
+            android:background="@drawable/mychat"
+            android:textSize="18sp" />
+
+        <com.facebook.drawee.view.SimpleDraweeView
+            android:id="@+id/iv_ichat_pic"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginLeft="10dp"
+            android:scaleType="fitCenter"
+            android:visibility="gone" />
+
+        <ImageView
+            android:id="@+id/iv_ichat_sound"
+            android:layout_width="wrap_content"
+            android:layout_height="45dp"
+             android:scaleType="fitXY"
+            android:layout_marginLeft="10dp"
+            android:src="@drawable/othersound"
+            android:visibility="gone" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_ichat_me"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv_ichat_time"
+        android:gravity="right|center_vertical"
+        android:orientation="horizontal" >
+
+        <RelativeLayout
+            android:layout_width="15dp"
+            android:layout_height="15dp" >
+
+            <ProgressBar
+                android:id="@+id/pb_ichat_me"
+                android:layout_width="15dp"
+                android:layout_height="15dp" />
+
+            <ImageView
+                android:id="@+id/iv_ichat_sendfailure"
+                android:layout_width="15dp"
+                android:layout_height="15dp"
+                android:src="@drawable/tab_unread_bg"
+                android:visibility="invisible" />
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/tv_ichat__me_content"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="7dp"
+            android:paddingTop="12dp"
+            android:maxWidth="260dp"
+            android:background="@drawable/otherchat"
+            android:textSize="18sp" />
+
+        <com.facebook.drawee.view.SimpleDraweeView
+            android:id="@+id/iv_ichat_me_pic"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginRight="10dp"
+            android:scaleType="fitCenter"
+            android:visibility="gone" />
+
+        <ImageView
+            android:id="@+id/iv_ichat_me_sound"
+            android:layout_width="wrap_content"
+            android:layout_height="45dp"
+            android:layout_marginRight="10dp"
+            android:src="@drawable/mysound"
+            android:scaleType="fitXY"
+            android:visibility="gone" />
+
+        <com.facebook.drawee.view.SimpleDraweeView
+            android:layout_gravity="top"
+            android:id="@+id/niv_ichat_me_photo"
+            fresco:roundAsCircle="true"
+            fresco:roundWithOverlayColor="@color/bg_grey"
+            fresco:roundingBorderWidth="0dp"
+            android:layout_width="50dp"
+            android:layout_height="50dp" />
+    </LinearLayout>
+
+</RelativeLayout>

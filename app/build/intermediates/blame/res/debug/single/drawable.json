@@ -1,0 +1,490 @@
+[
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/medicalrd_bg.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/medicalrd_bg.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/face_del_icon.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/face_del_icon.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/btn_blue_pressed_shape.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/btn_blue_pressed_shape.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/shape_corner_rectangle.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/shape_corner_rectangle.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/selector_addinfo_button4.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/selector_addinfo_button4.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/btn_round_bg.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/btn_round_bg.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/shape_subject_title_bg_rightblue.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/shape_subject_title_bg_rightblue.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/dialog_bg_unbind_phone.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/dialog_bg_unbind_phone.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/selector_chatinfo.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/selector_chatinfo.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/mydiet_tv_two_bg.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/mydiet_tv_two_bg.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/selector_question_itembackground.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/selector_question_itembackground.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/questionnaire_border.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/questionnaire_border.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/btn_main_pressed.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/btn_main_pressed.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/selector_addinfo_button5.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/selector_addinfo_button5.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/background_checkbox.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/background_checkbox.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/shape_subject_likebackground1.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/shape_subject_likebackground1.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/shape_lightblue_cornertitle.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/shape_lightblue_cornertitle.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/diet_bg.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/diet_bg.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/background_checkbox_check.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/background_checkbox_check.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/background_button_float.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/background_button_float.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/timestampe_bg.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/timestampe_bg.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/calendar_bg_selector.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/calendar_bg_selector.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/bg_addbp_value.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/bg_addbp_value.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/shape_grey_corner_rect.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/shape_grey_corner_rect.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/selector_faceitem_bg.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/selector_faceitem_bg.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/login_bg_tv.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/login_bg_tv.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/shape_bg_round.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/shape_bg_round.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/btn_blue_normal_shape.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/btn_blue_normal_shape.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/background_tv_setsugar.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/background_tv_setsugar.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/selector_doclist_bg.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/selector_doclist_bg.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/btn_mypatientprescription_bg1_white.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/btn_mypatientprescription_bg1_white.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/btn_cancel_normal_shape.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/btn_cancel_normal_shape.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/selector_bg_chatcamera.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/selector_bg_chatcamera.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/shadow_right.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/shadow_right.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/selector_title_publish.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/selector_title_publish.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/diettime_tv_bg2.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/diettime_tv_bg2.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/btn_cancel_pressed_shape.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/btn_cancel_pressed_shape.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/mydiet_tv_three_bg1.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/mydiet_tv_three_bg1.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/mydiet_tv_two_bg1.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/mydiet_tv_two_bg1.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/btn_mypatientprescription_bg2.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/btn_mypatientprescription_bg2.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/reg_border.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/reg_border.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/medicalrd_bg1.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/medicalrd_bg1.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/selector_bg_white.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/selector_bg_white.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/selector_bg_chatadd.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/selector_bg_chatadd.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/shape_dashline.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/shape_dashline.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/shape_subject_likebackground.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/shape_subject_likebackground.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/selector_bg_chatsmile.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/selector_bg_chatsmile.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/btn_main_mesurebloodsuger.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/btn_main_mesurebloodsuger.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/wheel_bg_ver.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/wheel_bg_ver.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/background_button_rectangle.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/background_button_rectangle.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/btn_mypatientprescription_bg1.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/btn_mypatientprescription_bg1.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/login_bg_register.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/login_bg_register.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/indicator_bg_top.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/indicator_bg_top.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/background_transparent.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/background_transparent.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/shape_subject_title_bg.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/shape_subject_title_bg.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/shape_red_nocorner_rectangle.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/shape_red_nocorner_rectangle.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/diettime_tv_bg1.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/diettime_tv_bg1.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/background_textview.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/background_textview.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/dialog_bg_unbind_code.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/dialog_bg_unbind_code.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/selector_bg_subjectitem.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/selector_bg_subjectitem.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/btn_main_normal.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/btn_main_normal.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/ssdk_oks_skyblue_platform_list_selector.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/ssdk_oks_skyblue_platform_list_selector.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/selector_addinfo_button6.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/selector_addinfo_button6.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/selector_bg_redbutton.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/selector_bg_redbutton.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/shadow_down.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/shadow_down.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/selector_addinfo_button3.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/selector_addinfo_button3.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/selector_backarrowlight.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/selector_backarrowlight.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/recording_hint_bg.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/recording_hint_bg.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/bg_hospitallist_choose.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/bg_hospitallist_choose.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/medication_btn_bg1.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/medication_btn_bg1.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/background_progress.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/background_progress.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/btn_mypatientprescription_adjust.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/btn_mypatientprescription_adjust.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/indicator_bg_bottom.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/login_bg_edt.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/login_bg_edt.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/ssdk_oks_classic_platform_corners_bg.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/ssdk_oks_classic_platform_corners_bg.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/mydiet_tv_three_bg.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/mydiet_tv_three_bg.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/diettime_tv_bg.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/diettime_tv_bg.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/btn_mypatientprescription_bg3_white.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/btn_mypatientprescription_bg3_white.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/recording_text_hint_bg.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/recording_text_hint_bg.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/btn_mypatientprescription_add.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/btn_mypatientprescription_add.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/btn_mypatientprescription_bg4.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/btn_mypatientprescription_bg4.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/medication_btn_bg2.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/medication_btn_bg2.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/selector_bg_blue.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/selector_bg_blue.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/selector_bg_subjectpublish.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/selector_bg_subjectpublish.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/background_setting.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/background_setting.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/background_switch_ball_uncheck.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/background_switch_ball_uncheck.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/btn_blue_selector.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/btn_blue_selector.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/point.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/point.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/wheel_bg_hor.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/wheel_bg_hor.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/medicationset_btn_bg_select.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/medicationset_btn_bg_select.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/background_checkbox_uncheck.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/background_checkbox_uncheck.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/dialog_btn_bind1.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/dialog_btn_bind1.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/bind_tv_bg.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/bind_tv_bg.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/dialog_bg_unbind.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/dialog_bg_unbind.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/mydiet_tv_one_bg1.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/mydiet_tv_one_bg1.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/wheel_val.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/wheel_val.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/selector_face_text.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/selector_face_text.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/shape_corner_rectangle1.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/shape_corner_rectangle1.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/selector_addinfo_button1.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/selector_addinfo_button1.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/ssdk_oks_skyblue_platform_list_item.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/ssdk_oks_skyblue_platform_list_item.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/dialog_btn_bind.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/dialog_btn_bind.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/ssdk_oks_skyblue_platform_list_item_selected.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/ssdk_oks_skyblue_platform_list_item_selected.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/shape_red_nocorner_rectangle1.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/shape_red_nocorner_rectangle1.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/dialog_bg_unbind_view.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/dialog_bg_unbind_view.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/selector_addinfo_button2.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/selector_addinfo_button2.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/medication_btn_bg_week.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/medication_btn_bg_week.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/tv_dietcontidion_bg.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/tv_dietcontidion_bg.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/shape_subject_title_bg_right.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/shape_subject_title_bg_right.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/btn_dialog_relatives.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/btn_dialog_relatives.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/remind_border.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/remind_border.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/selector_add.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/selector_add.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/medication_btn_bg.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/medication_btn_bg.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/selector_addinfo_bg.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/selector_addinfo_bg.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/shape_subject_title_bg_leftblue.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/shape_subject_title_bg_leftblue.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/edit_text_bg.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/edit_text_bg.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/login_bg_normal.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/login_bg_normal.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/selector_bg_chatpic.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/selector_bg_chatpic.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/btn_mypatientprescription_bg3.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/btn_mypatientprescription_bg3.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/btn_cancel_bj.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/btn_cancel_bj.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/shape_subject_title_bg_left.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/shape_subject_title_bg_left.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/mydiet_tv_one_bg.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/mydiet_tv_one_bg.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable/background_button.9.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable/background_button.9.png"
+    }
+]

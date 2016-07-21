@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/dialog_rootView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#55000000">
+
+    <RelativeLayout
+        android:id="@+id/contentDialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:background="@drawable/dialog_background">
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:text="请选择城市"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#616060"
+            android:textSize="20sp" />
+
+        <LinearLayout
+            android:id="@+id/ll_message"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_below="@id/title"
+            android:orientation="horizontal"
+            android:paddingBottom="20dp">
+
+            <com.hykj.view.spinnerwheel.WheelVerticalView
+                android:id="@+id/wv_chcity_province"
+                android:layout_width="0dp"
+                android:layout_height="150dp"
+                android:layout_weight="1" />
+
+            <com.hykj.view.spinnerwheel.WheelVerticalView
+                android:id="@+id/wv_chcity_city"
+                android:layout_width="0dp"
+                android:layout_height="150dp"
+                android:layout_weight="1" />
+
+            <com.hykj.view.spinnerwheel.WheelVerticalView
+                android:id="@+id/wv_chcity_district"
+                android:layout_width="0dp"
+                android:layout_height="150dp"
+                android:layout_weight="1" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_below="@+id/ll_message"
+            android:layout_marginBottom="20dp"
+            android:layout_marginTop="10dp"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/button_cancel"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_marginRight="20dp"
+                android:background="@drawable/red"
+                android:text="取消" />
+
+
+            <Button
+                android:id="@+id/button_accept"
+                android:layout_width="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_height="40dp"
+                android:background="@drawable/blue"
+                android:text="确定" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

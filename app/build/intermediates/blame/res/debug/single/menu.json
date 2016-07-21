@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/menu/sysset.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/menu/sysset.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/menu/forgot_pwd.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/menu/forgot_pwd.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/menu/store__pc_info.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/menu/store__pc_info.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/menu/request_patients.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/menu/request_patients.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/menu/store_pcinfo.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/menu/store_pcinfo.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/menu/reg.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/menu/reg.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/menu/login.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/menu/login.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/menu/sys_set_pwd.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/menu/sys_set_pwd.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/menu/em_delete_contact.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/menu/em_delete_contact.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/menu/main.xml"
+    }
+]

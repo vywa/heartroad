@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#eef0f0">
+
+    <RelativeLayout
+        android:id="@+id/addinfo_rl"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#009aa9">
+
+        <ImageView
+            android:id="@+id/iv_addinfo_back"
+            android:layout_width="25dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="15dp"
+            android:clickable="true"
+            android:gravity="center_vertical"
+            android:scaleType="fitCenter"
+            android:src="@drawable/back" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="录入数据"
+            android:textColor="#ffffff"
+            android:textSize="20sp" />
+    </RelativeLayout>
+
+    <FrameLayout
+        android:id="@+id/addinfo_fl"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_below="@+id/addinfo_rl">
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/addinfo_viewpager"
+            android:layout_width="match_parent"
+            android:layout_height="150dp">
+
+        </android.support.v4.view.ViewPager>
+
+        <LinearLayout
+            android:id="@+id/addinfo_point_group"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_gravity="bottom"
+            android:background="#b5b7b7"
+            android:gravity="center"
+            android:orientation="horizontal"></LinearLayout>
+    </FrameLayout>
+
+
+    <LinearLayout
+        android:id="@+id/addinfo_bg"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/addinfo_fl"
+        android:layout_marginTop="20dp"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/iv_addinfo_medicationreminders"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginRight="5dp"
+                android:layout_weight="1"
+                android:background="@drawable/selector_addinfo_bg"
+                android:clickable="true"
+                android:padding="60dp"
+                android:scaleType="center"
+                android:src="@drawable/addinfo_remind" />
+
+
+            <ImageView
+                android:id="@+id/iv_addinfo_dietcondition"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/selector_addinfo_bg"
+                android:clickable="true"
+                android:padding="60dp"
+                android:scaleType="center"
+                android:src="@drawable/addinfo_diet" />
+
+
+            <ImageView
+                android:id="@+id/iv_addinfo_medicalrecordupload"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="5dp"
+                android:layout_weight="1"
+                android:background="@drawable/selector_addinfo_bg"
+                android:clickable="true"
+                android:padding="60dp"
+                android:scaleType="center"
+                android:src="@drawable/addinfo_mr" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="5dp"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/iv_addinfo_prescriptionupload"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginRight="5dp"
+                android:layout_weight="1"
+                android:background="@drawable/selector_addinfo_bg"
+                android:clickable="true"
+                android:padding="60dp"
+                android:scaleType="center"
+                android:src="@drawable/addinfo_sport" />
+
+
+            <ImageView
+                android:id="@+id/iv_addinfo_bpinput"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/selector_addinfo_bg"
+                android:clickable="true"
+                android:padding="60dp"
+                android:scaleType="center"
+                android:src="@drawable/addinfo_bp" />
+
+
+            <ImageView
+                android:id="@+id/iv_addinfo_bsinput"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="5dp"
+                android:layout_weight="1"
+                android:background="@drawable/selector_addinfo_bg"
+                android:clickable="true"
+                android:padding="60dp"
+                android:scaleType="center"
+                android:src="@drawable/addinfo_bs" />
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/dialog_bg_unbind"
+    android:orientation="vertical" >
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.2"
+        android:gravity="center"
+        android:text="绑定手机"
+        android:textColor="#009ba9"
+        android:textSize="20sp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#009ba9" />
+
+    <EditText
+        android:id="@+id/dialog_edt_bind_phone"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:layout_weight="1"
+        android:background="@drawable/dialog_bg_unbind_phone"
+        android:gravity="center_vertical"
+        android:hint="请输入手机号"
+        android:lines="1"
+        android:paddingLeft="10dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="8dp"
+        android:layout_weight="1"
+        android:background="@drawable/dialog_bg_unbind_phone"
+        android:orientation="horizontal" >
+
+        <EditText
+            android:id="@+id/dialog_edt_bind_code"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:background="@null"
+            android:gravity="center_vertical"
+            android:hint="请输入验证码"
+            android:inputType="textPhonetic"
+            android:paddingLeft="10dp" />
+
+        <Button
+            android:id="@+id/dialog_btn_bind_code"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:background="@drawable/dialog_bg_unbind_code"
+            android:gravity="center"
+            android:text="获取验证码"
+            android:textColor="#ffffff"
+            android:textSize="10sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_weight="1"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/dialog_btn_bind_bind"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/dialog_btn_bind1"
+            android:gravity="center"
+            android:text="确定"
+            android:textColor="#ffffff" />
+
+        <Button
+            android:id="@+id/dialog_btn_bind_cancel"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/dialog_btn_bind"
+            android:gravity="center"
+            android:text="取消"
+            android:textColor="#009ba9" />
+    </LinearLayout>
+
+</LinearLayout>

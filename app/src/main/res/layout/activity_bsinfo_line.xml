@@ -1,0 +1,127 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#4c505a" >
+
+    <FrameLayout
+        android:id="@+id/fl_cubic_line"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="25dp">
+
+        <TextView
+            android:id="@+id/tv_bsinfo_start"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+           	android:paddingTop="5dp"
+           	android:paddingBottom="5dp"
+            android:text="2016-01-01 00:00"
+            android:textColor="@android:color/black"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/tv_bsinfo_line"
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/tv_bsinfo_start"
+            android:text="--->"
+            android:paddingTop="5dp"
+           	android:paddingBottom="5dp"
+            android:textColor="@android:color/black"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/tv_bsinfo_end"
+            android:layout_width="wrap_content"
+             android:layout_marginLeft="10dp"
+            android:layout_height="wrap_content"
+            android:paddingTop="5dp"
+           	android:paddingBottom="5dp"
+            android:layout_toRightOf="@id/tv_bsinfo_line"
+            android:text="2016-02-01 00:00"
+            android:textColor="@android:color/black"
+            android:textSize="15sp" />
+        
+        <TextView
+            android:id="@+id/tv_bsinfo_table"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+             android:layout_marginLeft="10dp"
+             android:paddingTop="5dp"
+           	android:paddingBottom="5dp"
+            android:layout_toRightOf="@id/tv_bsinfo_end"
+            android:text="表格显示"
+            android:textColor="@android:color/black"
+            android:textSize="15sp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center_vertical" >
+
+        <ImageView
+            android:id="@+id/iv_bsinfo_month"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="30dp" />
+
+        <TextView
+            android:id="@+id/tv_bsinfo_month"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="35dp"
+            android:gravity="center_vertical"
+            android:text="月"
+            android:textColor="@android:color/black"
+            android:textSize="15sp" />
+
+        <ImageView
+            android:id="@+id/iv_bsinfo_week"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="80dp"
+            android:background="@drawable/bsinfo_dot" />
+
+        <TextView
+            android:id="@+id/tv_bsinfo_week"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:gravity="center_vertical"
+            android:layout_marginRight="85dp"
+            android:text="周"
+            android:textColor="@android:color/white"
+            android:textSize="15sp" />
+
+        <ImageView
+            android:id="@+id/iv_bsinfo_day"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="130dp" />
+
+        <TextView
+            android:id="@+id/tv_bsinfo_day"
+            android:layout_width="wrap_content"
+            android:gravity="center_vertical"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="135dp"
+            android:text="日"
+            android:textColor="@android:color/black"
+            android:textSize="15sp" />
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/color/em_main_botton_text_color.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/color/em_main_botton_text_color.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/color/calendar_text_selector.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/color/calendar_text_selector.xml"
+    }
+]

@@ -1,0 +1,565 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:2:1-232:12
+	package
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:3:5-23
+		INJECTED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:10:5-12:40
+MERGED from [com.android.support:support-v4:23.3.0] /home/bob/HY/healthcloud/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fresco:0.10.0] /home/bob/HY/healthcloud/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.10.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:0.10.0] /home/bob/HY/healthcloud/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.10.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:23.3.0] /home/bob/HY/healthcloud/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fbcore:0.10.0] /home/bob/HY/healthcloud/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.10.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:0.10.0] /home/bob/HY/healthcloud/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.10.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.10.0] /home/bob/HY/healthcloud/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.10.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:23.3.0] /home/bob/HY/healthcloud/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fbcore:0.10.0] /home/bob/HY/healthcloud/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.10.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:0.10.0] /home/bob/HY/healthcloud/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.10.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:23.3.0] /home/bob/HY/healthcloud/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fbcore:0.10.0] /home/bob/HY/healthcloud/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.10.0/AndroidManifest.xml:5:5-7:41
+	android:targetSdkVersion
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:12:9-38
+		INJECTED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:11:9-35
+		INJECTED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:15:5-66
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:15:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:16:5-78
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:16:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:17:5-75
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:17:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:18:5-74
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:18:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:19:5-80
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:19:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:20:5-83
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:20:22-81
+uses-permission#android.permission.CAMERA
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:21:5-64
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:21:22-62
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:22:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:23:5-78
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:23:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:24:5-75
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:24:22-73
+uses-permission#android.permission.READ_LOGS
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:25:22-65
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:26:5-70
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:26:22-68
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:27:5-79
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:27:22-77
+uses-permission#android.permission.VIBRATE
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:28:5-65
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:28:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:29:5-67
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:29:22-65
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:30:5-79
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:30:22-77
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:31:5-73
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:31:22-71
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:32:5-70
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:32:22-68
+uses-permission#android.permission.RESTART_PACKAGES
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:33:5-74
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:33:22-72
+uses-permission#android.permission.BLUETOOTH
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:35:5-67
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:35:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:36:5-73
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:36:22-71
+uses-permission#android.permission.GET_TASKS
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:37:5-67
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:37:22-65
+uses-permission#android.permission.KILL_BACKGROUND_PROCESSES
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:38:5-83
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:38:22-81
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:39:5-77
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:39:22-75
+uses-permission#android.permission.CALL_PHONE
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:40:5-68
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:40:22-66
+uses-permission#android.permission.FLASHLIGHT
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:41:5-68
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:41:22-66
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:42:5-71
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:42:22-69
+application
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:44:5-230:19
+MERGED from [com.android.support:support-v4:23.3.0] /home/bob/HY/healthcloud/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] /home/bob/HY/healthcloud/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] /home/bob/HY/healthcloud/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] /home/bob/HY/healthcloud/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:48:9-41
+	android:allowBackup
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:46:9-35
+	android:icon
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:47:9-45
+	android:theme
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:49:9-54
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:45:9-28
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:50:9-52:63
+	android:value
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:52:13-61
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:51:13-52
+receiver#com.hykj.broadcast.AlarmBroadcastReceiver
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:54:9-56:50
+	android:process
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:56:13-38
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:55:13-61
+activity#com.hykj.activity.usermanagement.StartActivity
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:58:9-66:20
+	android:screenOrientation
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:60:13-49
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:59:13-66
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:61:13-65:29
+action#android.intent.action.MAIN
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:62:17-68
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:62:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:64:17-76
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:64:27-74
+activity#com.hykj.activity.usermanagement.MainActivity
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:67:9-73
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:67:19-71
+activity#com.hykj.activity.usermanagement.LoginActivity
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:68:9-74
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:68:19-72
+activity#com.hykj.activity.usermanagement.RegActivity
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:69:9-72
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:69:19-70
+activity#com.hykj.activity.usermanagement.FindPwdActivity
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:70:9-76
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:70:19-74
+activity#com.hykj.activity.subject.SubjectDetailActivity
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:71:9-73:51
+	android:screenOrientation
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:73:13-49
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:72:13-67
+activity#com.hykj.activity.subject.NewSubjectActivity
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:74:9-76:51
+	android:screenOrientation
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:76:13-49
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:75:13-64
+activity#com.hykj.activity.subject.NewSubjectPicActivity
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:77:9-79:51
+	android:screenOrientation
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:79:13-49
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:78:13-67
+activity#com.hykj.manager.MyLoactionManager
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:80:9-82:51
+	android:screenOrientation
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:82:13-49
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:81:13-54
+activity#com.hykj.activity.chat.ChatActivity
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:83:9-85:51
+	android:screenOrientation
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:85:13-49
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:84:13-55
+activity#com.hykj.activity.subject.NewSubjectSoundActivity
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:86:9-88:51
+	android:screenOrientation
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:88:13-49
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:87:13-69
+activity#com.hykj.activity.subject.NewSubjectFileActivity
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:89:9-91:51
+	android:screenOrientation
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:91:13-49
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:90:13-68
+activity#com.hykj.manager.RecordVideoManager
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:92:9-94:51
+	android:screenOrientation
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:94:13-49
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:93:13-55
+activity#com.hykj.activity.messure.AddInfoActivity
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:95:9-97:51
+	android:screenOrientation
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:97:13-49
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:96:13-61
+activity#com.hykj.manager.SubjectPhotoView
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:98:9-100:51
+	android:screenOrientation
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:100:13-49
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:99:13-53
+activity#com.hykj.activity.chat.LylListActivity
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:101:9-103:51
+	android:screenOrientation
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:103:13-49
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:102:13-58
+activity#com.hykj.activity.messure.AddBloodPressureActivity
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:104:9-106:51
+	android:screenOrientation
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:106:13-49
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:105:13-70
+activity#com.hykj.activity.messure.AddBloodSugarActivity
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:107:9-109:51
+	android:screenOrientation
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:109:13-49
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:108:13-67
+activity#com.hykj.activity.messure.BloodPressureTableActivity
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:110:9-112:51
+	android:screenOrientation
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:112:13-49
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:111:13-72
+activity#com.hykj.activity.messure.BloodSugarTableActivity
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:113:9-115:51
+	android:screenOrientation
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:115:13-49
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:114:13-69
+activity#com.hykj.activity.usermanagement.ModifyDataActivity
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:116:9-79
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:116:19-77
+activity#com.hykj.activity.usermanagement.ModifyNameActivity
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:117:9-89
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:117:19-77
+activity#com.hykj.activity.usermanagement.ModifyCityActivity
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:118:9-89
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:118:19-77
+activity#com.hykj.activity.usermanagement.WelcomeActivity
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:119:9-122:20
+	android:screenOrientation
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:121:13-49
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:120:13-68
+activity#com.hykj.activity.usermanagement.HospitalList
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:123:9-125:51
+	android:screenOrientation
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:125:13-49
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:124:13-65
+activity#com.hykj.activity.usermanagement.DoctorDetailActivity
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:126:9-128:51
+	android:screenOrientation
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:128:13-49
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:127:13-73
+activity#com.hykj.manager.ChatPhotoView
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:129:9-131:51
+	android:screenOrientation
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:131:13-49
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:130:13-50
+activity#com.hykj.activity.usermanagement.QuestionnaireActivity
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:132:9-92
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:132:19-80
+activity#com.hykj.activity.usermanagement.StoreActivity
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:133:9-84
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:133:19-72
+activity#com.hykj.activity.usermanagement.CollectInfoActivity
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:134:9-90
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:134:19-78
+activity#com.hykj.activity.usermanagement.PushInfoDetialActivity
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:135:9-93
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:135:19-81
+activity#com.hykj.activity.usermanagement.BindUserActivity
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:136:9-87
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:136:19-75
+activity#com.hykj.activity.usermanagement.HealthRecordActivity
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:137:9-140:84
+	android:windowSoftInputMode
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:140:13-72
+	android:configChanges
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:139:13-63
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:138:13-73
+activity#com.hykj.activity.usermanagement.MsgCenterActivity
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:141:9-88
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:141:19-76
+activity#com.hykj.activity.usermanagement.IntegrationActivity
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:142:9-90
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:142:19-78
+activity#com.hykj.activity.usermanagement.SettingActivity
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:143:9-86
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:143:19-74
+activity#com.hykj.view.SetSugarView
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:144:9-64
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:144:19-52
+activity#com.hykj.activity.usermanagement.QuestionActivity
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:145:9-87
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:145:19-75
+activity#com.hykj.activity.usermanagement.AboutActivity
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:146:9-84
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:146:19-72
+activity#com.hykj.activity.usermanagement.MedicationremindersActivity
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:147:9-98
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:147:19-86
+activity#com.hykj.activity.usermanagement.MedicationsetActivity
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:148:9-92
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:148:19-80
+activity#com.hykj.activity.usermanagement.BindUsernameActivity
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:149:9-91
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:149:19-79
+activity#com.hykj.activity.usermanagement.AlarmRemindActivity
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:150:9-90
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:150:19-78
+activity#com.hykj.activity.messure.DietConditionActivity
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:151:9-85
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:151:19-73
+activity#com.hykj.activity.usermanagement.MyDietActivity
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:152:9-85
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:152:19-73
+activity#com.hykj.activity.messure.SportConditionActivity
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:153:9-86
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:153:19-74
+activity#com.hykj.activity.usermanagement.MySportActivity
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:154:9-86
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:154:19-74
+activity#com.hykj.activity.messure.UploadMedicalRecordActivity
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:155:9-91
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:155:19-79
+activity#com.hykj.activity.usermanagement.MyMedicalrecordActivity
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:156:9-94
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:156:19-82
+activity#com.hykj.activity.usermanagement.MedicalRecordDetailActivity
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:157:9-98
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:157:19-86
+activity#com.hykj.activity.usermanagement.MyPrescriptionActivity
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:158:9-93
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:158:19-81
+activity#com.hykj.activity.messure.BloodSugarLineActivity
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:159:9-161:52
+	android:screenOrientation
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:161:13-50
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:160:13-68
+activity#com.hykj.activity.messure.BloodPressureLineActivity
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:162:9-164:52
+	android:screenOrientation
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:164:13-50
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:163:13-71
+activity#com.hykj.manager.GetPhotoManager
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:165:9-168:55
+	android:screenOrientation
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:167:13-49
+	android:theme
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:168:13-53
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:166:13-52
+activity#com.hykj.activity.usermanagement.AcceptFriendActivity
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:169:9-171:51
+	android:screenOrientation
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:171:13-49
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:170:13-73
+service#com.hykj.service.DownloadService
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:173:9-59
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:173:18-57
+service#com.hykj.service.ChatService
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:174:9-55
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:174:18-53
+service#com.hykj.service.RegisterCodeTimerService
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:175:9-177:37
+	android:enabled
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:177:13-35
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:176:13-61
+provider#com.hykj.db.ChatProvider
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:179:9-181:60
+	android:authorities
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:181:13-58
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:180:13-44
+provider#com.hykj.db.RosterProvider
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:183:9-185:61
+	android:authorities
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:185:13-59
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:184:13-46
+receiver#com.hykj.broadcast.ChatBroadCastReceiver
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:187:9-191:20
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:187:19-66
+intent-filter#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:188:13-190:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:189:17-78
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:189:25-76
+service#com.baidu.location.f
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:193:9-196:49
+	android:enabled
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:195:13-35
+	android:process
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:196:13-38
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:194:13-48
+activity#com.mob.tools.MobUIShell
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:198:9-212:20
+	android:screenOrientation
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:201:13-49
+	android:windowSoftInputMode
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:203:13-67
+	android:configChanges
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:200:13-74
+	android:theme
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:202:13-72
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:199:13-52
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:204:13-211:29
+data
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:205:17-58
+	android:scheme
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:205:23-56
+action#android.intent.action.VIEW
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:207:17-68
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:207:25-66
+category#android.intent.category.BROWSABLE
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:209:17-77
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:209:27-75
+category#android.intent.category.DEFAULT
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:210:17-75
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:210:27-73
+activity#com.hykj.wxapi.WXEntryActivity
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:213:9-218:74
+	android:screenOrientation
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:217:13-49
+	android:exported
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:216:13-36
+	android:configChanges
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:215:13-74
+	android:theme
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:218:13-72
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:214:13-50
+activity#cn.sharesdk.sina.weibo.SinaActivity
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:219:9-227:20
+	android:theme
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:221:13-72
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:220:13-63
+intent-filter#android.intent.category.DEFAULT+com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:222:13-226:29
+action#com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:223:17-91
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:223:25-89
+activity#com.hykj.activity.usermanagement.ScanQRActivity
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:228:9-85
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:228:19-73
+activity#com.hykj.activity.usermanagement.BindDeviceActivity
+ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:229:9-89
+	android:name
+		ADDED from /home/bob/HY/healthcloud/app/src/main/AndroidManifest.xml:229:19-77

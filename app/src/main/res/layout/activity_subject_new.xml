@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@android:color/white">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/white"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@color/bg_bule">
+
+            <ImageView
+                android:id="@+id/iv_title_back"
+                android:layout_width="40dp"
+                android:layout_height="match_parent"
+                android:paddingLeft="5dp"
+                android:scaleType="centerInside"
+                android:src="@drawable/selector_backarrowlight"/>
+
+            <TextView
+                android:id="@+id/tv_title"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_centerInParent="true"
+                android:gravity="center"
+                android:text="发帖"
+                android:textColor="#ffffff"
+                android:textSize="18sp"/>
+
+            <Button
+                android:id="@+id/bt_subjectnew_publish"
+                android:layout_width="65dp"
+                android:layout_height="match_parent"
+                android:layout_alignParentRight="true"
+                android:background="@drawable/selector_bg_subjectpublish"
+                android:gravity="center"
+                android:text="发送"
+                android:textColor="@android:color/white"
+                android:textSize="14sp"/>
+        </RelativeLayout>
+
+        <EditText
+            android:id="@+id/et_subjectnew_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="25dp"
+            android:background="@android:drawable/editbox_background_normal"
+            android:hint="请输入标题"
+            android:minHeight="50dp"/>
+
+        <EditText
+            android:id="@+id/et_subjectnew_content"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginBottom="20dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="25dp"
+            android:layout_weight="1"
+            android:background="@android:drawable/editbox_background_normal"
+            android:hint="请输入内容"/>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="5dp"
+            android:background="@color/bg_grey"/>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="25dp"
+            android:layout_marginTop="10dp"
+            android:background="@android:drawable/editbox_background_normal"
+            android:paddingBottom="10dp">
+
+            <ImageView
+                android:id="@+id/publish_face"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="25dp"
+                android:src="@drawable/subject_face"/>
+
+            <ImageView
+                android:id="@+id/publish_pic"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="25dp"
+                android:layout_toRightOf="@id/publish_face"
+                android:src="@drawable/subject_pic"/>
+
+            <ImageView
+                android:id="@+id/publish_loc"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="25dp"
+                android:layout_toRightOf="@id/publish_pic"
+                android:src="@drawable/subject_loc"/>
+
+            <ImageView
+                android:id="@+id/publish_sound"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="25dp"
+                android:layout_toRightOf="@id/publish_loc"
+                android:src="@drawable/subject_sound"/>
+
+            <ImageView
+                android:id="@+id/publish_file"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_below="@+id/publish_face"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="25dp"
+                android:src="@drawable/subject_file"/>
+
+            <ImageView
+                android:id="@+id/publish_video"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_below="@+id/publish_pic"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="25dp"
+                android:layout_toRightOf="@id/publish_file"
+                android:src="@drawable/subject_video"/>
+        </RelativeLayout>
+
+    </LinearLayout>
+
+    <FrameLayout
+        android:id="@+id/fl_facechoose"
+        android:layout_width="match_parent"
+        android:layout_height="275dp"
+        android:visibility="gone"
+        android:layout_alignParentBottom="true">
+
+    </FrameLayout>
+
+</RelativeLayout>

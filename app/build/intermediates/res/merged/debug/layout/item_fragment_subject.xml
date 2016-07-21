@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                xmlns:fresco="http://schemas.android.com/apk/res-auto"
+                android:paddingBottom="10dp"
+                android:background="@drawable/selector_bg_subjectitem">
+
+    <com.facebook.drawee.view.SimpleDraweeView
+        android:id="@+id/niv_subjectpreview_photo"
+        android:layout_width="50dp"
+        fresco:roundAsCircle="true"
+        fresco:roundWithOverlayColor="@android:color/white"
+        fresco:roundingBorderWidth="0dp"
+        android:layout_height="50dp"
+        android:layout_gravity="top"
+        android:layout_margin="5dp" />
+
+    <TextView
+        android:id="@+id/tv_subjectpreview_authorname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="5dp"
+        android:layout_toRightOf="@id/niv_subjectpreview_photo"
+        android:textColor="@android:color/black"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/tv_subjectpreview_publishtime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv_subjectpreview_authorname"
+        android:textColor="@android:color/darker_gray"
+        android:layout_marginLeft="10dp"
+        android:layout_toRightOf="@id/niv_subjectpreview_photo"
+        android:textSize="12sp" />
+
+    <TextView
+        android:id="@+id/tv_question_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/niv_subjectpreview_photo"
+        android:layout_margin="10dp"
+        android:drawableLeft="@drawable/best"
+        android:ellipsize="end"
+        android:singleLine="true"
+        android:textColor="@android:color/black"
+        android:textSize="16sp" />
+
+    <GridView
+        android:id="@+id/gv_question_contentimg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_question_title"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:clickable="false"
+        android:focusable="false"
+        android:numColumns="3" />
+
+    <TextView
+        android:id="@+id/tv_question_replynum"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/gv_question_contentimg"
+        android:layout_marginRight="15dp"
+        android:drawableLeft="@drawable/replynum"
+        android:drawablePadding="5dp"
+        android:gravity="center_horizontal"
+        android:textColor="@android:color/darker_gray"
+        android:textSize="13sp" />
+
+    <ImageView
+        android:id="@+id/iv_subject_coll"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/gv_question_contentimg"
+        android:layout_marginRight="70dp"
+        android:background="@drawable/delete"
+        android:visibility="gone" />
+
+</RelativeLayout>

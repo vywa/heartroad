@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#009aa9">
+
+        <ImageView
+            android:id="@+id/myprescription_imgv_back"
+            android:layout_width="25dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="15dp"
+            android:clickable="true"
+            android:gravity="center_vertical"
+            android:scaleType="fitCenter"
+            android:src="@drawable/back" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="我的处方"
+            android:textColor="#ffffff"
+            android:textSize="20sp" />
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:src="@drawable/mycf"
+        android:scaleType="fitXY"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="30dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:background="@drawable/btn_mypatientprescription_bg1"
+            android:gravity="center"
+            android:text="药品名称"
+            android:textColor="#616060"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/myprescription_tv_medical1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="3"
+            android:background="@drawable/btn_mypatientprescription_bg1_white"
+            android:clickable="true"
+            android:gravity="center"
+            android:textColor="#009aa9"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/myprescription_tv_medical3"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="3"
+            android:background="@drawable/btn_mypatientprescription_bg2"
+            android:clickable="true"
+            android:gravity="center"
+            android:textColor="#009aa9"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:background="@drawable/btn_mypatientprescription_bg1"
+            android:gravity="center"
+            android:text="服用方式"
+            android:textColor="#616060"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/myprescription_tv_method1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="3"
+            android:background="@drawable/btn_mypatientprescription_bg1_white"
+            android:gravity="center"
+            android:textColor="#009aa9"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/myprescription_tv_method3"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="3"
+            android:background="@drawable/btn_mypatientprescription_bg2"
+            android:gravity="center"
+            android:textColor="#009aa9"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:background="@drawable/btn_mypatientprescription_bg1"
+            android:gravity="center"
+            android:text="服用频率"
+            android:textColor="#616060"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/myprescription_tv_times1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="3"
+            android:background="@drawable/btn_mypatientprescription_bg1_white"
+            android:gravity="center"
+            android:textColor="#009aa9"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/myprescription_tv_times3"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="3"
+            android:background="@drawable/btn_mypatientprescription_bg2"
+            android:gravity="center"
+            android:textColor="#009aa9"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:background="@drawable/btn_mypatientprescription_bg1"
+            android:gravity="center"
+            android:text="每顿用量"
+            android:textColor="#616060"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/myprescription_tv_amount1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="3"
+            android:background="@drawable/btn_mypatientprescription_bg1_white"
+            android:gravity="center"
+            android:textColor="#009aa9"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/myprescription_tv_amount3"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="3"
+            android:background="@drawable/btn_mypatientprescription_bg2"
+            android:gravity="center"
+            android:textColor="#009aa9"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginBottom="30dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:background="@drawable/btn_mypatientprescription_bg3"
+            android:gravity="center"
+            android:text="总量"
+            android:textColor="#616060"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/myprescription_tv_sum1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="3"
+            android:background="@drawable/btn_mypatientprescription_bg3_white"
+            android:gravity="center"
+            android:textColor="#009aa9"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/myprescription_tv_sum3"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="3"
+            android:background="@drawable/btn_mypatientprescription_bg4"
+            android:gravity="center"
+            android:textColor="#009aa9"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+</LinearLayout>

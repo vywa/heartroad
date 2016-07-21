@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#545862" >
+
+        <ImageView
+            android:id="@+id/iv_record_back"
+            android:layout_width="60dp"
+            android:layout_height="match_parent"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/selector_backarrowlight" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="信息录入"
+            android:textColor="#aaacb1"
+            android:textSize="18sp" />
+
+        <ImageView
+            android:id="@+id/iv_record_add"
+            android:layout_width="60dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:paddingLeft="22dp"
+            android:paddingRight="22dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/selector_add" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="260dp"
+        android:background="#676d77" >
+
+        <com.gc.materialdesign.views.ButtonFloat
+            android:id="@+id/btf_record_bp"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="60dp"
+            android:background="#454551" />
+
+        <ImageView
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="60dp"
+            android:padding="20dp"
+            android:src="@drawable/bpbutton" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/btf_record_bp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:text="血压记录"
+            android:textColor="#fbe6d7"
+            android:textSize="18sp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:background="#363b47" >
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#dfdbd7" >
+
+        <com.gc.materialdesign.views.ButtonFloat
+            android:id="@+id/btf_record_bs"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:layout_centerHorizontal="true"
+			android:layout_marginTop="60dp"
+            android:background="#fbe6d7" />
+
+        <ImageView
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:layout_centerHorizontal="true"
+			android:layout_marginTop="60dp"
+            android:padding="20dp"
+            android:src="@drawable/bsbutton" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/btf_record_bs"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:text="血糖记录"
+            android:textColor="#454551"
+            android:textSize="18sp" />
+    </RelativeLayout>
+
+</LinearLayout>

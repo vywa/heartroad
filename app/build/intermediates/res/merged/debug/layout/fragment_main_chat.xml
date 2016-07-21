@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@android:color/white"
+                xmlns:fresco="http://schemas.android.com/apk/res-auto">
+
+    <Button
+        android:id="@+id/main_btn_mydoctor"
+        android:layout_width="260dp"
+        android:layout_height="50dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="280dp"
+        android:background="@drawable/selector_bg_redbutton"
+        android:textColor="#ffffff"
+        android:text="我的医生" />
+
+    <com.facebook.drawee.view.SimpleDraweeView
+        android:visibility="gone"
+        android:id="@+id/iv_docicon"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        fresco:roundAsCircle="true"
+        fresco:roundWithOverlayColor="@android:color/white"
+        fresco:roundingBorderWidth="0dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="150dp"
+        />
+
+    <ImageView
+        android:id="@+id/iv_search"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="150dp"
+        android:src="@drawable/searching"
+        />
+
+    <TextView
+        android:id="@+id/main_tv_chat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dp"
+        android:text="您还没有向天衡的医生提问过" 
+        android:textSize="20sp"
+        android:textColor="#666666"
+        android:gravity="center_horizontal"/>
+
+    <TextView
+        android:id="@+id/main_tv_find"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="240dp"
+        android:gravity="center_horizontal"
+         android:textColor="#999999"
+        android:text="去寻找您的专属医生"
+        android:textSize="10sp" />
+
+</RelativeLayout>

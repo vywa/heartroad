@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+     android:background="#fff"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#009aa9" >
+
+        <ImageView
+            android:id="@+id/medicationset_imgv_back"
+            android:layout_width="25dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="15dp"
+            android:clickable="true"
+            android:gravity="center_vertical"
+            android:scaleType="fitCenter"
+            android:src="@drawable/back" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="提醒项目"
+            android:textColor="#ffffff"
+            android:textSize="20sp" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="30dp"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/medicationset_btn_takemedicine"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="#009aa9"
+            android:gravity="center"
+            android:text="服药"
+            android:textColor="#ffffff"
+            android:textSize="15sp" />
+
+        <Button
+            android:id="@+id/medicationset_btn_bloodpressure"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/medication_btn_bg1"
+            android:gravity="center"
+            android:text="测量血压"
+            android:textColor="#616060"
+            android:textSize="15sp" />
+
+        <Button
+            android:id="@+id/medicationset_btn_bloodsugar"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/medication_btn_bg1"
+            android:gravity="center"
+            android:text="测量血糖"
+            android:textColor="#616060"
+            android:textSize="15sp" />
+
+        <Button
+            android:id="@+id/medicationset_btn_sports"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/medication_btn_bg2"
+            android:gravity="center"
+            android:text="运动"
+            android:textColor="#616060"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="30dp"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="内容"
+                android:textColor="#009aa9"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/medicationset_edt_contents"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="20dp"
+                android:background="@null"
+                android:lines="2"
+                android:hint="例：降压药物，降糖药物等"
+                android:textColor="#616060"
+                android:textSize="20sp" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="#616060" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="30dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:drawableBottom="@drawable/block"
+            android:gravity="center"
+            android:paddingBottom="20dp"
+            android:text="时间"
+            android:textColor="#009aa9"
+            android:textSize="20sp" />
+
+        <com.hykj.view.spinnerwheel.WheelVerticalView
+            android:id="@+id/medicationset_wv_hour"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="100dp" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="25dp"
+            android:src="@drawable/point_time" />
+
+        <com.hykj.view.spinnerwheel.WheelVerticalView
+            android:id="@+id/medicationset_wv_minute"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="30dp"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="60dp"
+            android:gravity="center"
+            android:text="重复"
+            android:textColor="#009aa9"
+            android:textSize="20sp" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp" >
+
+            <Button
+                android:id="@+id/medicationset_btn_mon"
+                android:layout_width="40dp"
+                android:layout_height="match_parent"
+                android:layout_marginRight="5dp"
+                android:background="#009aa9"
+                 android:layout_toLeftOf="@+id/medicationset_btn_tues"
+                android:gravity="center"
+                android:text="一"
+                android:textColor="#ffffff"
+                android:textSize="18sp" />
+
+            <Button
+                android:id="@+id/medicationset_btn_tues"
+                android:layout_width="40dp"
+                android:layout_height="match_parent"
+                android:layout_marginRight="5dp"
+                android:layout_toLeftOf="@+id/medicationset_btn_wed"
+                android:background="@drawable/medication_btn_bg_week"
+                android:gravity="center"
+                android:text="二"
+                android:textColor="#616060"
+                android:textSize="18sp" />
+
+            <Button
+                android:id="@+id/medicationset_btn_wed"
+                android:layout_width="40dp"
+                android:layout_height="match_parent"
+                android:layout_marginRight="5dp"
+                android:layout_toLeftOf="@+id/medicationset_btn_thur"
+                android:background="@drawable/medication_btn_bg_week"
+                android:gravity="center"
+                android:text="三"
+                android:textColor="#616060"
+                android:textSize="18sp" />
+
+            <Button
+                android:id="@+id/medicationset_btn_thur"
+                android:layout_width="40dp"
+                android:layout_height="match_parent"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/medication_btn_bg_week"
+                android:gravity="center"
+                android:text="四"
+                android:textColor="#616060"
+                android:textSize="18sp" />
+
+            <Button
+                android:id="@+id/medicationset_btn_fri"
+                android:layout_width="40dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="5dp"
+                android:layout_toRightOf="@+id/medicationset_btn_thur"
+                android:background="@drawable/medication_btn_bg_week"
+                android:gravity="center"
+                android:text="五"
+                android:textColor="#616060"
+                android:textSize="18sp" />
+
+            <Button
+                android:id="@+id/medicationset_btn_sat"
+                android:layout_width="40dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="5dp"
+                android:layout_toRightOf="@+id/medicationset_btn_fri"
+                android:background="@drawable/medication_btn_bg_week"
+                android:gravity="center"
+                android:text="六"
+                android:textColor="#616060"
+                android:textSize="18sp" />
+
+            <Button
+                android:id="@+id/medicationset_btn_sun"
+                android:layout_width="40dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="5dp"
+                android:layout_toRightOf="@+id/medicationset_btn_sat"
+                android:background="@drawable/medication_btn_bg_week"
+                android:gravity="center"
+                android:text="日"
+                android:textColor="#616060"
+                android:textSize="18sp" />
+        </RelativeLayout>
+    </LinearLayout>
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:orientation="horizontal"
+    android:layout_marginTop="30dp"
+    android:layout_marginLeft="20dp"
+    android:layout_marginRight="20dp">
+    <Button 
+        android:id="@+id/medicationset_btn_true"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="match_parent"
+        android:text="保存"
+        android:textSize="20sp"
+        android:textColor="#ffffff"
+        android:background="@drawable/blue"
+        android:layout_marginRight="20dp"
+        android:gravity="center"/>
+    <Button 
+        android:id="@+id/medicationset_btn_cancel"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="match_parent"
+        android:text="取消"
+        android:textSize="20sp"
+        android:textColor="#ffffff"
+        android:layout_marginLeft="20dp"
+        android:background="@drawable/red"
+        android:gravity="center"/>
+</LinearLayout>
+</LinearLayout>

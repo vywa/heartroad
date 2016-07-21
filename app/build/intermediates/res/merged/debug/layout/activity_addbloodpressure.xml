@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <include layout="@layout/lyl_title" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        android:background="#c9f5f7" >
+
+        <TextView
+            android:id="@+id/tv_addbp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:drawableLeft="@drawable/bpicon"
+            android:drawablePadding="10dp"
+            android:text="血压"
+            android:textColor="#de4658"
+            android:textSize="18sp" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="15dp"
+            android:layout_toRightOf="@id/tv_addbp"
+            android:background="@drawable/bg_addbp_value" >
+
+            <RelativeLayout
+                android:id="@+id/rl_hbp"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:background="@drawable/bg_addbp_value" >
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="30dp" >
+
+                    <View
+                        android:layout_width="45dp"
+                        android:layout_height="40dp"
+                        android:layout_centerInParent="true"
+                        android:background="#de4658"
+                        android:paddingLeft="30dp" />
+
+                    <com.hykj.view.spinnerwheel.WheelHorizontalView
+                        android:id="@+id/whv_addbp_hbp"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent" />
+                </RelativeLayout>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="10dp"
+                    android:text="高压"
+                    android:textColor="#009aa9"
+                    android:textSize="18sp" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_below="@id/rl_hbp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/bg_addbp_value" >
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="30dp" >
+
+                    <View
+                        android:layout_width="45dp"
+                        android:layout_height="40dp"
+                        android:layout_centerInParent="true"
+                        android:background="#de4658"
+                        android:paddingLeft="30dp" />
+
+                    <com.hykj.view.spinnerwheel.WheelHorizontalView
+                        android:id="@+id/whv_addbp_lbp"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent" />
+                </RelativeLayout>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="10dp"
+                    android:text="低压"
+                    android:textColor="#009aa9"
+                    android:textSize="18sp" />
+            </RelativeLayout>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="130dp"
+            android:layout_toRightOf="@id/tv_addbp"
+            android:background="@drawable/bg_addbp_value" >
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="30dp" >
+
+                <View
+                    android:layout_width="45dp"
+                    android:layout_height="40dp"
+                    android:layout_centerInParent="true"
+                    android:background="#de4658" />
+
+                <com.hykj.view.spinnerwheel.WheelHorizontalView
+                    android:id="@+id/whv_addbp_hr"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+            </RelativeLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:text="心率"
+                android:textColor="#009aa9"
+                android:textSize="18sp" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/bg_hospitallist_choose" >
+
+        <com.hykj.view.spinnerwheel.WheelHorizontalView
+            android:id="@+id/wv_addbp_day"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            app:visibleItems="7" />
+
+        <View
+            android:layout_width="40dp"
+            android:layout_height="3dp"
+            android:layout_below="@id/wv_addbp_day"
+            android:layout_centerHorizontal="true"
+            android:background="#de4658" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_below="@id/wv_addbp_day"
+            android:layout_marginTop="3dp"
+            android:background="#9b9a9a" />
+
+        <TextView
+            android:id="@+id/tv_addbp_between"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/wv_addbp_day"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:text="今天"
+            android:textColor="#de4658"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/tv_addbp_month"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/wv_addbp_day"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="10dp"
+            android:text="一月"
+            android:textColor="#de4658"
+            android:textSize="18sp" />
+
+        <RelativeLayout
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:layout_below="@id/tv_addbp_month"
+            android:layout_centerHorizontal="true" >
+
+            <View
+                android:layout_width="70dp"
+                android:layout_height="25dp"
+                android:layout_centerInParent="true"
+                android:background="#de4658" />
+
+            <com.hykj.view.spinnerwheel.WheelVerticalView
+                android:id="@+id/wv_addbp_time"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+
+    <Button
+        android:id="@+id/bt_addbp_confirm"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_marginLeft="45dp"
+        android:layout_marginRight="45dp"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/selector_bg_redbutton"
+        android:text="确定"
+        android:textColor="#ffffff" />
+
+</LinearLayout>

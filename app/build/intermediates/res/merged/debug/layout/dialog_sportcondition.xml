@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.8"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="30dp"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="2"
+            android:scaleType="fitEnd"
+            android:src="@drawable/clock" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="3"
+            android:gravity="center_vertical"
+            android:text="  运动时间"
+            android:textColor="#009aa9"
+            android:textSize="20sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_weight="3.2"
+        android:orientation="vertical">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.8"
+            android:background="@drawable/diettime_tv_bg1">
+
+            <com.hykj.view.spinnerwheel.WheelHorizontalView
+                android:id="@+id/dialog_sportcondition_wv_day"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <View
+                android:layout_width="40dp"
+                android:layout_height="3dp"
+                android:layout_gravity="bottom|center_horizontal"
+                android:background="#de4658" />
+        </FrameLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.5"
+            android:background="@drawable/diettime_tv_bg1"
+
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/dialog_sportcondition_tv_month"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="20dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="一月"
+                android:textColor="#de4658"
+                android:textSize="17sp" />
+
+            <TextView
+                android:id="@+id/dialog_sportcondition_tv_between"
+                android:layout_width="0dp"
+
+                android:layout_height="match_parent"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="40dp"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:text="今天"
+                android:textColor="#de4658"
+                android:textSize="17sp" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1" />
+
+        </LinearLayout>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginBottom="10dp"
+            android:layout_weight="1.7"
+            android:background="@drawable/diettime_tv_bg2">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="22dp"
+                android:layout_gravity="center"
+                android:background="@drawable/diettime_tv_bg" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+
+                <com.hykj.view.spinnerwheel.WheelVerticalView
+                    android:id="@+id/dialog_sportcondition_wvv_hour"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+
+                    android:layout_toLeftOf="@+id/dialog_sportcondition_iv" />
+
+
+                <ImageView
+                    android:id="@+id/dialog_sportcondition_iv"
+                    android:layout_width="12dp"
+                    android:layout_height="12dp"
+                    android:layout_centerInParent="true"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:scaleType="fitCenter"
+                    android:src="@drawable/point_time" />
+
+
+                <com.hykj.view.spinnerwheel.WheelVerticalView
+                    android:id="@+id/dialog_sportcondition_wvv_min"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_toRightOf="@+id/dialog_sportcondition_iv" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_alignBaseline="@+id/dialog_sportcondition_iv"
+                    android:background="#dddcdc" />
+
+            </RelativeLayout>
+        </FrameLayout>
+    </LinearLayout>
+</LinearLayout>

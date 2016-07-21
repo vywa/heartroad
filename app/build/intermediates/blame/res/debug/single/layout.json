@@ -1,0 +1,682 @@
+[
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/progressdialog_getinfo.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/progressdialog_getinfo.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_addinfo.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_addinfo.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_request_patients.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_request_patients.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/dialog_unbind_phoneno.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/dialog_unbind_phoneno.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_mydiet.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_mydiet.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/item_doclist.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/item_doclist.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_addbloodsugar.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_addbloodsugar.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/dialog_reg_method.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/dialog_reg_method.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_bindusername.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_bindusername.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/month.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/month.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_wxentry.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_wxentry.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_modifydata.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_modifydata.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/week.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/week.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/list_item.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_sportcondition.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_sportcondition.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/whell_bstype.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/whell_bstype.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_bloodpreesurehistory_item.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_bloodpreesurehistory_item.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/wheel_text_hospital.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/wheel_text_hospital.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/item_lv_mymedicalrecord.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/item_lv_mymedicalrecord.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/adapter_pulltrlistview.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/adapter_pulltrlistview.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/expression_gridview.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/expression_gridview.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_subject_new.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_subject_new.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_bloodpreesurehistory.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_bloodpreesurehistory.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/dialog_bind_email.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/dialog_bind_email.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_bsinfo_line.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_bsinfo_line.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_medicationreminders.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_medicationreminders.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/item_chat.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/item_chat.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/fragment_healthrecord.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/fragment_healthrecord.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/item_lv_question.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/item_lv_question.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_addbloodpressure.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_addbloodpressure.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/layout_face_grid.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/layout_face_grid.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/dialog_chooseheight.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/dialog_chooseheight.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_bpinfo_line.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_bpinfo_line.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/item_fragment_question_img.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/item_fragment_question_img.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/alert_dialog.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/alert_dialog.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/fragment_main_condition.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/fragment_main_condition.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/ssdk_oks_skyblue_editpage_at_layout.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/ssdk_oks_skyblue_editpage_at_layout.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_binduser.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_binduser.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_thirdbind.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_thirdbind.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/ssdk_oks_skyblue_editpage.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/ssdk_oks_skyblue_editpage.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/dialog_del_remind.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/dialog_del_remind.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/item_lv_mydiet.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/item_lv_mydiet.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/fragment_main.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/fragment_main.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/ssdk_oks_skyblue_share_platform_list.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/ssdk_oks_skyblue_share_platform_list.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/choose_diettime_wheel.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/choose_diettime_wheel.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_myprescription.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_myprescription.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/number_indicator_spinner.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/number_indicator_spinner.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/dialog_unbind_email.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/dialog_unbind_email.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_subject_photoview.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_subject_photoview.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_medicalrecordetail.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_medicalrecordetail.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/fragment_face.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/fragment_face.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/fragment_subjectadd_reply.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/fragment_subjectadd_reply.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_bind_device.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_bind_device.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/dialog_chooseweight.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/dialog_chooseweight.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/dialog_choosecity.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/dialog_choosecity.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/dialog.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/dialog.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/item_addbp_wheeltext.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/item_addbp_wheeltext.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/dialog_per_np.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/dialog_per_np.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/view_switchtime.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/view_switchtime.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/dialog_setpressure.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/dialog_setpressure.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/lyl_title.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/lyl_title.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_subjectdetail_reply_item.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_subjectdetail_reply_item.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/fragment_main_info.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/fragment_main_info.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_conversation.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_conversation.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/dialog_test_phoneno.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/dialog_test_phoneno.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/progressdialog_login.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/progressdialog_login.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_scan_qr.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_scan_qr.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/item_face.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/item_face.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_subjectdetail_popu.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_subjectdetail_popu.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/item_facerelativelayout.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/item_facerelativelayout.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/dialog_del_diet.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/dialog_del_diet.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/dialog_modifysex.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/dialog_modifysex.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_alarmremind.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_alarmremind.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/fragment_record.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/fragment_record.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/fragment_integral_rule.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/fragment_integral_rule.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/dialog_logout.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/dialog_logout.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/dialog_alarm_remind.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/dialog_alarm_remind.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_store.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_store.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/wheel_text_centered.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/wheel_text_centered.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_newsubfile.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_newsubfile.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_welcome.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/item_lv_medicineremind.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/item_lv_medicineremind.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_getphotomanager.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_getphotomanager.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/item_lv_about.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/item_lv_about.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_subjectdetail_header.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_subjectdetail_header.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_setting.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_setting.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_integration.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_integration.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/item_fragment_subject.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/item_fragment_subject.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/dialog_sportcondition.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/dialog_sportcondition.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_newsubsound.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_newsubsound.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_hospitallist.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_hospitallist.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/item_info_push.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/item_info_push.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_dietcondition.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_dietcondition.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_information.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_information.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/dialog_modifypwd_success.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/dialog_modifypwd_success.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/dialog_del_sport.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/dialog_del_sport.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_newsubpic.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_newsubpic.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_setsugar.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_setsugar.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/listview_item_layout.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/listview_item_layout.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/question_layout.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/question_layout.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/item_msgcenter.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/item_msgcenter.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_modifyname.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_modifyname.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_questionnaire.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_questionnaire.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_acceptfriend.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_acceptfriend.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/moive_recorder_view.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/moive_recorder_view.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/view_recorderview.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/view_recorderview.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/answer_layout.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/answer_layout.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_searchbranchhosp.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_searchbranchhosp.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/choose_alarm_wheel.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/choose_alarm_wheel.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_about.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_medicationset.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_medicationset.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/dialog_dietcondition.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/dialog_dietcondition.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/xy_chart.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/xy_chart.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_findmydoctor.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_findmydoctor.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_uploadmedicalrecord.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_uploadmedicalrecord.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/dialog_bind_phoneno.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/dialog_bind_phoneno.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_collectinfo.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_collectinfo.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/dialog_del_collection.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/dialog_del_collection.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/fragment_question.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/fragment_question.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_canvas.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_canvas.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/dialog_login_progress.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/dialog_login_progress.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/acitvity_record.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/acitvity_record.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_doctorllist.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_doctorllist.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/item_info_collect.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/item_info_collect.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_pushinfo.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_pushinfo.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_register.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_register.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/fragment_menuleft.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/fragment_menuleft.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/ssdk_oks_skyblue_share_actionbar.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/ssdk_oks_skyblue_share_actionbar.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/row_expression.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/row_expression.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_msgcenter.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_msgcenter.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/dialog_delconversation.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/dialog_delconversation.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_bloodsugarhis_item.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_bloodsugarhis_item.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activit_chat.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activit_chat.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/progress_dialog.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/progress_dialog.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_mysport.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_mysport.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/item_lv_mysport.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/item_lv_mysport.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/choose_setbp_wheel_text.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/choose_setbp_wheel_text.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/choose_setbs_wheel_text.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/choose_setbs_wheel_text.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_subjectnew_myloaction.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_subjectnew_myloaction.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/progressdialog_getcode.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/progressdialog_getcode.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/dialog_uploadmr.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/dialog_uploadmr.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/whell_bsday.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/whell_bsday.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_healthrecord.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_healthrecord.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_forgot_pwd.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_forgot_pwd.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/ssdk_oks_skyblue_share_platform_list_item.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/ssdk_oks_skyblue_share_platform_list_item.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/dialog_reg_success.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/dialog_reg_success.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_modifycity.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_modifycity.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/fragment_slidingmenu.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/fragment_slidingmenu.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_detial.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_detial.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/fragment_integral_his.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/fragment_integral_his.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/fragment_main_chat.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/fragment_main_chat.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/ssdk_oks_skyblue_editpage_inc_image_layout.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/ssdk_oks_skyblue_editpage_inc_image_layout.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_subjectdetail.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_subjectdetail.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_question.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_question.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_start.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_start.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/dialog_relatives.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/dialog_relatives.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/fragment_chat_pic.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/fragment_chat_pic.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/color_selector.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/color_selector.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/choose_city_wheel_text.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/choose_city_wheel_text.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/dialog_choosebirth.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/dialog_choosebirth.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_mymedicalrecord.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_mymedicalrecord.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/dialog_setsugar.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/dialog_setsugar.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/item_repeatreply.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/item_repeatreply.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/wheel_view.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/wheel_view.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/activity_bloodsugarhistory.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/activity_bloodsugarhistory.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/snackbar.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/snackbar.xml"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/layout/item_subject_title.xml",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/layout/item_subject_title.xml"
+    }
+]

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                xmlns:fresco="http://schemas.android.com/apk/res-auto"
+                android:background="@android:color/white"
+                android:layout_height="match_parent">
+    
+    <com.facebook.drawee.view.SimpleDraweeView
+        android:id="@+id/niv_sdreply_photo"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        fresco:roundAsCircle="true"
+        fresco:roundWithOverlayColor="@android:color/white"
+        fresco:roundingBorderWidth="0dp"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_below="@id/view_sd" />
+
+    <TextView
+        android:id="@+id/tv_sdreply_authorname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="15dp"
+        android:layout_below="@id/view_sd" 
+        android:layout_toRightOf="@id/niv_sdreply_photo"
+        android:textColor="@android:color/black"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/tv_sdreply_publishtime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv_sdreply_authorname"
+        android:layout_marginLeft="10dp"
+        android:textColor="@android:color/darker_gray"
+        android:layout_toRightOf="@id/niv_sdreply_photo"
+        android:textSize="12sp" />
+     
+     <TextView android:id="@+id/tv_sdreply_loc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_toRightOf="@id/tv_sdreply_authorname"
+        android:textColor="@android:color/holo_green_light"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:textSize="10sp"/>
+     
+     <TextView android:id="@+id/tv_sdreply_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+		android:layout_marginTop="10dp"
+		android:layout_marginBottom="10dp"
+		android:layout_marginLeft="75dp"
+		android:layout_marginRight="10dp"
+		android:textColor="@android:color/black"
+        android:layout_below="@id/tv_sdreply_publishtime"
+        android:textSize="16sp"/>
+		
+     <LinearLayout
+         android:id="@+id/ll_sdreply_imgcontainer"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:layout_alignLeft="@+id/tv_sdreply_content"
+         android:layout_below="@id/tv_sdreply_content"
+         android:orientation="vertical" >
+     </LinearLayout>
+     
+     <LinearLayout
+         android:id="@+id/ll_sdreply_repeatreplycontainer"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:layout_alignLeft="@+id/tv_sdreply_content"
+         android:layout_below="@id/ll_sdreply_imgcontainer"
+         android:orientation="vertical" >
+     </LinearLayout>
+     
+     
+</RelativeLayout>
+
+
+
+
+
+
+
+
+
+
+

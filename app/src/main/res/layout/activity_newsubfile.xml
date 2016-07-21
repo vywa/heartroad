@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <RelativeLayout
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/bg_bule" >
+
+        <ImageView
+            android:id="@+id/iv_title_back"
+            android:layout_width="40dp"
+            android:layout_height="match_parent"
+            android:paddingLeft="5dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/selector_backarrowlight" />
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:text="添加附件"
+            android:textColor="#ffffff"
+            android:textSize="18sp" />
+
+        <Button
+            android:id="@+id/bt_subfile_confirm"
+            android:layout_width="65dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/selector_bg_subjectpublish"
+            android:gravity="center"
+            android:text="确定"
+            android:textColor="@android:color/white"
+            android:textSize="14sp" />
+    </RelativeLayout>
+
+    <ImageView 
+        android:id="@+id/iv_newsubfile"
+        android:layout_below="@+id/title"
+        android:layout_centerHorizontal="true"
+        android:layout_width="150dp"
+        android:layout_marginTop="50dp"
+        android:visibility="gone"
+        android:src="@drawable/file"
+        android:layout_height="150dp" />
+    
+    <TextView android:id="@+id/tv_path"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="12sp"
+        android:layout_centerInParent="true"/>
+    
+    <Button
+        android:id="@+id/bt_subfile_add"
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="90dp"
+        android:background="@drawable/selector_bg_redbutton"
+        android:gravity="center"
+        android:text="添加附件"
+        android:textColor="#f3ecff" />
+
+</RelativeLayout>

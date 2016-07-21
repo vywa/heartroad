@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    android:orientation="horizontal" >
+    
+    <TextView android:id="@+id/tv_rr_repeat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="aaaaaaaaa"
+        android:textColor="@android:color/holo_orange_dark"
+        android:textSize="13sp"/>
+    
+    <TextView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="回复："
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:textColor="@android:color/darker_gray"
+        android:textSize="13sp"/>
+    
+    <TextView android:id="@+id/tv_rr_repeatto"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="bbbbbbbb"
+        android:textColor="@android:color/holo_orange_dark"
+        android:textSize="13sp"/>
+    
+    <TextView android:id="@+id/tv_rr_repeatvcontent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:text="bbbbbbbb"
+        android:textColor="@android:color/black"
+        android:textSize="13sp"/>
+
+</LinearLayout>

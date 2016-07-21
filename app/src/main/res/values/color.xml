@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="bg_bule">#009aa9</color>
+    <color name="bg_red">#de4559</color>
+    <color name="bg_grey">#dcdcdc</color>
+
+    <color name="bg_subject_like">#dddcdc</color>
+    <color name="bg_subject_like1">#c9f8f4</color>
+    <color name="green">#00FF00</color>
+    <color name="thumbColor">#66aaaaaa</color>
+
+    <color name="addinfo_bg_normal">#ffffffff</color>
+    <color name="addinfo_bg_selected">#55000000</color>
+
+    <!-- 日历选择 -->
+    <color name="calendar_active_month_bg">#fff5f7f9</color>
+    <color name="calendar_bg">#ffffffff</color>
+    <color name="calendar_divider">#ffbababa</color>
+    <color name="calendar_inactive_month_bg">#ffd7d9db</color>
+    <color name="calendar_selected_day_bg">#ff379bff</color>
+    <color name="calendar_highlighted_day_bg">#ccffcc</color>
+    <color name="calendar_selected_range_bg">#ff96caff</color>
+    <color name="calendar_text_inactive">#40778088</color>
+    <color name="calendar_text_active">#ff778088</color>
+    <color name="calendar_text_selected">#ffffffff</color>
+    <color name="calendar_text_unselectable">#7f778088</color>
+    <color name="calendar_text_highlighted">#ff778088</color>
+    <color name="point">#00ffffff</color>
+    <!-- 日历选择 -->
+
+    <!--zxing-->
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <!--zxing-->
+
+</resources>

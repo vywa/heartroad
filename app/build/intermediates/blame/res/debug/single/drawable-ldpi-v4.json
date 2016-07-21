@@ -1,0 +1,442 @@
+[
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_taikaixin.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_taikaixin.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_yinxian.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_yinxian.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/h_quantou.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/h_quantou.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/h_ok.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/h_ok.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/indicator_point_select.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/indicator_point_select.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_madaochenggong.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_madaochenggong.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_dahaqi.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_dahaqi.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_lei.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_lei.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/w_xiayu.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/w_xiayu.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_kelian.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_kelian.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_youhengheng.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_youhengheng.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/h_ye.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/h_ye.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_han.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_han.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/o_weibo.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/o_weibo.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_zhajipijiu.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_zhajipijiu.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/face_delete.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/face_delete.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_aoteman.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_aoteman.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_hehe.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_hehe.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_haixiu.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_haixiu.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_xixi.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_xixi.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_heng.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_heng.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/o_dangao.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/o_dangao.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/f_jiong.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/f_jiong.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_numa.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_numa.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_keai.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_keai.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_miao.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_miao.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/h_good.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/h_good.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/status_invisible.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/status_invisible.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_tu.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_tu.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_zhuakuang.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_zhuakuang.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_shuijiao.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_shuijiao.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/h_woshou.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/h_woshou.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_shayan.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_shayan.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_baibai.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_baibai.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_dalian.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_dalian.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/o_feiji.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/o_feiji.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_haha.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_haha.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_bishi.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_bishi.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_ku.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_ku.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/w_taiyang.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/w_taiyang.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/status_qme.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/status_qme.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/o_liwu.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/o_liwu.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_guzhang.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_guzhang.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_kun.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_kun.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_sikao.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_sikao.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_chijing.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_chijing.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/o_huatong.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/o_huatong.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/h_buyao.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/h_buyao.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/indicator_point_nomal.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/indicator_point_nomal.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/h_zuoyi.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/h_zuoyi.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/w_yueliang.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/w_yueliang.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_ganmao.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_ganmao.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_weiqu.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_weiqu.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_wabishi.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_wabishi.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_touxiao.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_touxiao.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/f_hufen.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/f_hufen.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/l_shangxin.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/l_shangxin.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/o_lazhu.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/o_lazhu.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_huaxin.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_huaxin.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_shengbing.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_shengbing.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/o_yinyue.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/o_yinyue.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/f_zhi.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/f_zhi.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/status_shield.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/status_shield.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/f_v5.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/f_v5.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/l_xin.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/l_xin.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_shuai.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_shuai.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/h_ruo.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/h_ruo.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_xu.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_xu.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_chanzui.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_chanzui.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/f_shenma.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/f_shenma.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_zuiyou.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_zuiyou.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_yiwen.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_yiwen.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/o_weiguan.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/o_weiguan.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/status_leave.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/status_leave.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_xiaoku.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_xiaoku.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/h_zan.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/h_zan.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/o_lvsidai.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/o_lvsidai.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/o_zhong.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/o_zhong.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_nanhaier.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_nanhaier.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/status_online.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/status_online.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_landelini.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_landelini.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_beishang.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_beishang.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/o_zhaoxiangji.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/o_zhaoxiangji.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/w_shachenbao.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/w_shachenbao.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/f_geili.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/f_geili.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/f_meng.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/f_meng.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_nu.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_nu.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_ding.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_ding.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_qinqin.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_qinqin.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/h_lai.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/h_lai.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_bizui.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_bizui.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_feizao.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_feizao.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/w_fuyun.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/w_fuyun.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_zhutou.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_zhutou.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/f_xi.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/f_xi.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_zuohengheng.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_zuohengheng.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_heixian.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_heixian.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_shiwang.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_shiwang.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/h_haha.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/h_haha.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_jiyan.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_jiyan.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/o_ganbei.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/o_ganbei.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/w_xianhua.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/w_xianhua.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_doge.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_doge.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_yun.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_yun.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_tuzi.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_tuzi.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/w_weifeng.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/w_weifeng.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_aini.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_aini.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_qian.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_qian.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_xiongmao.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_xiongmao.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/d_shenshou.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-ldpi/d_shenshou.png"
+    }
+]

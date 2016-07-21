@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="5dp"
+    android:background="#fff" >
+
+    <LinearLayout
+        android:id="@+id/item_info_collect_ll"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:clickable="true"
+        android:orientation="vertical" >
+
+        <com.facebook.drawee.view.SimpleDraweeView
+            android:id="@+id/item_info_collect_imgv"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:scaleType="fitXY" />
+
+        <TextView
+            android:id="@+id/item_info_collect_title"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:gravity="center_vertical"
+            android:paddingLeft="15dp"
+            android:paddingRight="10dp"
+            android:singleLine="true"
+            android:textColor="#009aa9"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/item_info_collect_content"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:gravity="center_vertical"
+            android:lines="3"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:textColor="#6b6a6a"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@+id/item_info_collect_ll" >
+
+        <TextView
+            android:id="@+id/item_info_collect_time"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="20dp"
+            android:gravity="center"
+            android:textColor="#cccccc"
+            android:textSize="18sp" />
+
+        <ImageView
+            android:id="@+id/item_info_collect_del"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginRight="30dp"
+            android:layout_toLeftOf="@+id/item_info_collect_forward"
+            android:clickable="true"
+            android:src="@drawable/delete" />
+
+        <ImageView
+            android:id="@+id/item_info_collect_forward"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="20dp"
+            android:clickable="true"
+            android:src="@drawable/share" />
+    </RelativeLayout>
+
+</RelativeLayout>

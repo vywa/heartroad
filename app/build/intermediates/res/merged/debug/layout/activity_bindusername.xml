@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+      <RelativeLayout
+        android:id="@+id/ll_back"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#009aa9" >
+
+        <ImageView
+            android:id="@+id/bindusername_imgv_back"
+            android:layout_width="25dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="15dp"
+            android:clickable="true"
+            android:gravity="center_vertical"
+            android:scaleType="fitCenter"
+            android:src="@drawable/back" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="绑定用户名"
+            android:textColor="#ffffff"
+            android:textSize="20sp" />
+    </RelativeLayout>
+    <RelativeLayout 
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:background="#c9f4f8"
+        android:layout_marginTop="100dp">
+        <EditText 
+            android:id="@+id/bindusername_edt_name"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="10dp"
+            android:background="@null"
+            android:hint="请输入用户名"
+            android:layout_centerVertical="true"
+            android:gravity="center_vertical"
+            android:textColor="#616060"/>
+        <TextView 
+            android:id="@+id/bindusername_tv_del"
+            android:layout_width="40dp"
+            android:clickable="true"
+            android:layout_gravity="center_vertical"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="20dp"
+            android:layout_alignParentRight="true"
+            android:layout_height="45dp"/>
+    </RelativeLayout>
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="12sp"
+        android:textColor="@android:color/darker_gray"
+        android:text="用户名可以设置2-15位,大小写字母,设置后可用此用户名登录应用"
+        />
+
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:orientation="horizontal"
+        android:layout_marginTop="100dp"
+        android:layout_marginLeft="80dp"
+        android:layout_marginRight="80dp">
+        <Button 
+            android:id="@+id/bindusername_btn_save"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/blue"
+            android:text="保存"
+            android:gravity="center"
+            android:textSize="18sp"
+            android:layout_marginRight="10dp"
+            android:textColor="#ffffff"/>
+        <Button 
+            android:id="@+id/bindusername_btn_cancel"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/red"
+            android:text="取消"
+            android:gravity="center"
+            android:layout_marginLeft="10dp"
+            android:textSize="18sp"
+            android:textColor="#ffffff"/>
+    </LinearLayout>
+
+</LinearLayout>

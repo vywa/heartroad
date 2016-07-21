@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+    <!--设置注册界面上注册方式按钮-->
+    <item>
+    <shape>
+        <stroke android:width="1px" android:color="#808080" /><!--边框颜色-->
+        <solid android:color="#FFFCFCFC" /><!--填充色-->
+       
+    </shape>
+  </item>
+
+</layer-list>

@@ -1,0 +1,490 @@
+[
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/pressure_sugar.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/pressure_sugar.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/phone.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/phone.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/subject_coll.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/subject_coll.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/menuleft_collect.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/menuleft_collect.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/upload_blxq.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/upload_blxq.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/addinfo_sport.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/addinfo_sport.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/jiantou2x.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/jiantou2x.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/redpoint.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/redpoint.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/menuleft_msg.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/menuleft_msg.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/share.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/share.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/menuleft_jifen.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/menuleft_jifen.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/round_normal.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/round_normal.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/subject_selected.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/subject_selected.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/condition.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/condition.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/redpoint_big.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/redpoint_big.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/xuetang.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/xuetang.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/shop.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/shop.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/wx.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/wx.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/tv_dietcondition_border.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/tv_dietcondition_border.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/iv_addinfo_banner3.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/iv_addinfo_banner3.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/diet.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/diet.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/addinfo_diet.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/addinfo_diet.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/record.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/record.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/sport_ds.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/sport_ds.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/setbp.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/setbp.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/delall.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/delall.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/setbs.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/setbs.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/email.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/email.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/menuleft_dingdan.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/menuleft_dingdan.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/iv_addinfo_banner2.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/iv_addinfo_banner2.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/menuleft_bg.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/menuleft_bg.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/iv_hr_banner1.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/iv_hr_banner1.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/bindwb.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/bindwb.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/tjbg.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/tjbg.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/searching.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/searching.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/username.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/username.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/medication_add.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/medication_add.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/menuleft_bind.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/menuleft_bind.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/setcall.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/setcall.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/wdxt.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/wdxt.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/block.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/block.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/wdys.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/wdys.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/subject_transmit.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/subject_transmit.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/addinfo_bg_selected.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/addinfo_bg_selected.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/bg_subjectliked.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/bg_subjectliked.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/takemedicine.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/takemedicine.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/reg_succ.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/reg_succ.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/bg_mr_detailcontent.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/bg_mr_detailcontent.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/menu.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/menu.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/subject.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/subject.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/wdyd.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/wdyd.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/alarm.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/alarm.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/upload_mr.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/upload_mr.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/xueya.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/xueya.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/upload_other.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/upload_other.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/bindwx.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/bindwx.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/mr_detailtime.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/mr_detailtime.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/menuleft_set.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/menuleft_set.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/upload_jy.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/upload_jy.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/setquestion.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/setquestion.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/switch_right.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/switch_right.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/collect_fill.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/collect_fill.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/main_selected.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/main_selected.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/camera.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/camera.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/bg_blue.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/bg_blue.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/healthrecord_bg.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/healthrecord_bg.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/viewnum.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/viewnum.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/wdsm.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/wdsm.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/wenhao.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/wenhao.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/settalk.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/settalk.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/wdcf.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/wdcf.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/video_play.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/video_play.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/main.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/main.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/menuleft_logout.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/menuleft_logout.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/switch_left.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/switch_left.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/bg_subjectlike.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/bg_subjectlike.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/wdbl.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/wdbl.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/pwd_succ.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/pwd_succ.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/menuleft_info.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/menuleft_info.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/addinfo_bg_normal.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/addinfo_bg_normal.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/addinfo_mr.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/addinfo_mr.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/bindqq.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/bindqq.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/timepoint1.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/timepoint1.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/delete.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/delete.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/iv_hr_banner3.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/iv_hr_banner3.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/upload_qt.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/upload_qt.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/bg_white.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/bg_white.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/record_selected.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/record_selected.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/upload_test.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/upload_test.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/user.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/user.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/collect.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/collect.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/wdxy.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/wdxy.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/sport.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/sport.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/welcome.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/welcome.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/add.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/add.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/timepoint.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/timepoint.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/round_selecte.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/round_selecte.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/timeaxes.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/timeaxes.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/wb.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/wb.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/sub_popu.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/sub_popu.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/bsinfo_dot.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/bsinfo_dot.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/qq.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/qq.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/sugar_pressure.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/sugar_pressure.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/shop_selected.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/shop_selected.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/clock.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/clock.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/addinfo_remind.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/addinfo_remind.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/setabout.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/setabout.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/jkpg.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/jkpg.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/upload_bl.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/upload_bl.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/addinfo_bp.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/addinfo_bp.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/yes.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/yes.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/addinfo_bg.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/addinfo_bg.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/upload_cf.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/upload_cf.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/setrelative.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/setrelative.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/set_relative_phone.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/set_relative_phone.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/mr_detailtype.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/mr_detailtype.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/replynum.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/replynum.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/iv_addinfo_banner1.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/iv_addinfo_banner1.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/btn_suger_pressure.jpg",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/btn_suger_pressure.jpg"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/iv_hr_banner2.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/iv_hr_banner2.png"
+    },
+    {
+        "merged": "/home/bob/HY/healthcloud/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/addinfo_bs.png",
+        "source": "/home/bob/HY/healthcloud/app/src/main/res/drawable-xxhdpi/addinfo_bs.png"
+    }
+]

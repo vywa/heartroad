@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/darker_gray"
+    android:descendantFocusability="beforeDescendants"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#009aa9" >
+
+        <ImageView
+            android:id="@+id/iv_title_back"
+            android:layout_width="40dp"
+            android:layout_height="match_parent"
+            android:paddingLeft="5dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/selector_backarrowlight" />
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="150dp"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:ellipsize="end"
+            android:gravity="center"
+            android:lines="1"
+            android:textColor="#ffffff"
+            android:textSize="18sp" />
+    </RelativeLayout>
+
+    <android.support.v4.widget.SwipeRefreshLayout
+        android:id="@+id/srl_subjectdetail_reply"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" >
+
+        <ListView
+            android:id="@+id/lv_subjectdetail_reply"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:divider="#00000000"
+            android:dividerHeight="2dp"
+            android:listSelector="@android:color/transparent" >
+        </ListView>
+    </android.support.v4.widget.SwipeRefreshLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_subdetail_reply"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#535962" >
+
+        <EditText
+            android:id="@+id/et_subjectdetail_reply"
+            android:layout_width="230dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="40dp"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:minHeight="50dp"
+            android:textColor="@android:color/white" />
+
+        <Button
+            android:id="@+id/bt_subjectdetail_publish"
+            android:layout_width="50dp"
+            android:layout_height="35dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="7dp"
+            android:background="#009ba8"
+            android:gravity="center"
+            android:text="发送" />
+
+        <ImageButton
+            android:id="@+id/bt_subjectdetail_emjor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="10dp"
+            android:layout_centerVertical="true"
+            android:background="@drawable/shape_bg_round"
+            android:src="@drawable/selector_bg_chatsmile" />
+
+        <ImageButton
+            android:id="@+id/bt_subjectdetail_add"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="65dp"
+            android:background="@drawable/shape_bg_round"
+            android:src="@drawable/selector_bg_chatadd" />
+    </RelativeLayout>
+
+    <FrameLayout
+        android:id="@+id/fl_facechoose"
+        android:layout_width="match_parent"
+        android:layout_height="275dp"
+        android:visibility="gone" >
+    </FrameLayout>
+
+</LinearLayout>
